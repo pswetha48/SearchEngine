@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/shruthi/AllFiles/Sem2/InfoRetrieval/corenlp341/stanford-corenlp-3.4.1.jar"/>
+	<classpathentry kind="lib" path="/home/shruthi/AllFiles/Sem2/InfoRetrieval/corenlp341/stanford-corenlp-3.4.1-models.jar"/>
+	<classpathentry kind="lib" path="/home/shruthi/AllFiles/Sem2/InfoRetrieval/corenlp341/javax.json.jar"/>
+	<classpathentry kind="lib" path="/home/shruthi/AllFiles/Sem2/InfoRetrieval/corenlp341/joda-time.jar"/>
+	<classpathentry kind="lib" path="/home/shruthi/AllFiles/Sem2/InfoRetrieval/corenlp341/xom.jar"/>
+	<classpathentry kind="lib" path="/home/shruthi/AllFiles/Sem2/InfoRetrieval/corenlp341/ejml-0.23.jar"/>
+	<classpathentry kind="lib" path="/home/shruthi/AllFiles/Sem2/InfoRetrieval/corenlp341/xom-1.2.10-src.jar"/>
+	<classpathentry kind="lib" path="/home/shruthi/AllFiles/Sem2/InfoRetrieval/corenlp341/javax.json-api-1.0-sources.jar"/>
+	<classpathentry kind="lib" path="/home/shruthi/AllFiles/Sem2/InfoRetrieval/corenlp341/joda-time-2.1-sources.jar"/>
+	<classpathentry kind="lib" path="/home/shruthi/AllFiles/Sem2/InfoRetrieval/corenlp341/jollyday-0.4.7-sources.jar"/>
+	<classpathentry kind="lib" path="/home/shruthi/AllFiles/Sem2/InfoRetrieval/corenlp341/jollyday.jar"/>
+	<classpathentry kind="lib" path="/home/shruthi/AllFiles/Sem2/InfoRetrieval/corenlp341/ejml-0.23-src.zip"/>
+	<classpathentry kind="lib" path="libs/jsoup-1.8.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

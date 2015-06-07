@@ -1,0 +1,26 @@
+import java.util.HashMap;
+
+
+public class Last {
+
+	public static void main(String[] args) {
+		int t=12;
+		int n=2;
+		String d1 = "travel happiness family Rome Italy health Paris France";
+		String d2 = "chemistry substance science nature family";
+		HashMap<String, Integer> one = new HashMap<String, Integer>();
+		HashMap<String, Integer> two = new HashMap<String, Integer>();
+		String[] d1s = d1.split(" ");
+		String[] d2s = d1.split(" ");
+		for(String i: d1s){
+			one.put(i,1);
+		}
+		for(String i: d1s){
+			two.put(i,1);
+		}
+		double itfOne = Math.log(t/one.size());
+		double itfTwo = Math.log(t/two.size());
+		
+		//travel	happiness	family	Rome	Italy	health	Paris	France	chemistry	substance	science	nature
+	}
+}

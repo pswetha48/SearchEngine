@@ -1,0 +1,1400 @@
+723:on the fatigue failure of structures due to vibrations excited by random pressure fields .
+97:a mixing theory for the interaction between dissipative flows and nearly isentropic streams .
+748:subsonic aerodynamic flutter derivatives for wings and control surfaces,  /compressible and incompressible flow/
+1262:an extension of the linearized characteristics method for calculating the supersonic flow around elliptic cones .
+961:compressible two dimensional jet mixing at constant pressure .
+1006:free-flight measurements of the static and dynamic
+291:sweepback effects in the turbulent boundary-layer shock-wave interaction .
+1329:some aspects of non-stationary airfoil theory and its practical application .
+88:magnetohydrodynamic free-convection pipe flow .
+1146:thermal buckling of cylinders .
+756:further comments on the inversion of large structural matrices .
+1252:on the approach to chemical and vibrational equilibrium behind a strong normal shock wave .
+855:simplified formulas for boundary value problems of the thin-- walled circular cylinder .
+1326:interaction of secondary injectants and rocket exhaust for thrust vector control .
+1280:wings with minimum drag due to lift in supersonic flow .
+82:theoretical investigation of the ablation of a glass-type heat protection shield of varied material properties at the stagnation point of a re-entering irbm .
+119:conduction of fluctuating heat flow in a wall consisting of many layers .
+227:a technique for improving the predictions of linearised theory on the drag of straight edge wings .
+342:effect of diffusion fields on the laminar boundary layer .
+704:a systematic kernel function procedure for determining aerodynamic forces on oscillating or steady finite wings at subsonic speeds .
+1167:an experimental study of the effect of downwash from a twin-propeller vtol aircraft on several types of ground surfaces .
+685:aerodynamic effects of some configuration variables on the aeroelastic characteristics of lifting surfaces at mach numbers from 0. 7 to 6. 86 .
+1366:the compressible laminar boundary layer with heat transfer and arbitrary pressure gradient .
+953:vibrations of infinitely long cylindrical shells under initial stress .
+724:structural acoustic proof testing .
+845:the flexural vibrations of thin cylinders .
+252:an investigation of interference effects on similar models of different size in various transonic tunnels in the u.k. .
+387:heat transfer for laminar flow in an annulus with porous wall .
+592:design of axial compressors .
+170:the interaction of a reflected shock wave with the boundary layer in a shock tube .
+263:cylindrical shock waves produced by instantaneous energy release .
+788:an approximate boundary layer theory for semi-infinite cylinders of arbitrary cross-section .
+550:laminar heat transfer in tubes under slip-flow conditions .
+282:jet effects on base pressure of conical afterbodies at mach 1. 91 and 3. 12 .
+349:numerical solution of the boundary layer equations without similarity assumptions .
+528:first-order slip effects on the laminar boundary layer over a slender body of revolution with zero pressure gradient .
+980:a method of computing the transient temperature of thick walls from arbitrary variation of adiabatic-wall temperature and heat-transfer coefficient .
+1255:the flow about a charged body moving in the lower atmosphere .
+539:local heat transfer to a yawed, infite, circular cylinder in laminar compressible flow .
+44:tip-bluntness effects on cone pressures at m=6.85.
+1267:on supersonic flow past thick airfoils .
+1079:finite difference formulae for the square lattices .
+771:on the flow of a compressible fluid past a sphere .
+296:notes on waves through gases at pressures small compared with the magnetic pressure, with applications to upper atmosphere aerodynamics .
+469:linearised transonic flow about slender bodies at zero angle of attack .
+1192:an integral method for calculation of supersonic laminar boundary layer with heat transfer on yawed cone .
+122:a simplified approximate method for the calculation of the pressure around conical bodies of arbitrary shape in supersonic and hypersonic flow .
+609:on three dimensional bodies of delta planform which can support plane attached shock waves .
+561:a geometric problem related to the optimum distribution of lift on a planar wing in supersonic flow .
+1279:sublimation in a hypersonic environment .
+1009:free-flight measurements of the static and dynamic
+84:experimental investigation of the downstream influence of stagnation point mass transfer .
+392:natural frequencies of rectangular plates with edges elastically restrained against rotation .
+1121:compressive and torsional buckling of thin-wall cylinders in the yield region .
+969:on the use of side-jets as control devices .
+767:mathematical techniques applying to the thermal fatigue behaviour of high temperature alloys .
+1387:the buckling of a square panel under shear, when one pair of opposite edges is clamped and the other pair is simply supported .
+734:the bending of uniformly loaded clamped plate in the form of a circular sector .
+597:measurements of pitching moment derivatives for blunt-nose aerofoils oscillating in two-dimensional supersonic flow .
+686:flutter tests of some simple models at a mach number of 7. 2 in helium flow .
+1018:note on creep buckling of columns .
+325:heat transfer to constant property laminar boundary layer flows with power function free stream velocity and wall temperature variation .
+531:the flow about a moving body in the upper ionosphere .
+307:an approximate solution of hypersonic laminar boundary layer equations and its application .
+195:correlation of theoretical and photo-thermoelastic results on thermal stresses in idealized wing structure .
+725:the response of a typical aircraft structure to jet noise .
+284:the divergence of supersonic wings including chordwise bending .
+799:some effects of wind-tunnel interference observed in tests on twodimensional aerofoils at high subsonic and transonic speeds .
+674:the shapes and lift-dependent drags on some sweptback wings designed for m= 1. 2.
+604:the 7 in. x 7 in. hypersonic wind tunnel at r.a.e., farnborough part iii - calibration of the flow in the working section .
+586:an approximate treatment of unsteady heat conduction in semi-infinite solids with variable thermal properties .
+1175:stresses from local loadings in cylindrical pressure vessels .
+1026:note on creep buckling of columns .
+580:new thermo-mechanical reciprocity relations with application to thermal stress analysis .
+615:the contraction of satellite orbits under the influence of air drag . part iii . high eccentricity orbits . /0.2 e 1/
+1019:note on creep buckling of columns .
+624:cruise performance of channel-flow ground effect machines .
+381:the axisymmetric boundary layer on a long thin cylinder .
+65:convection of a pattern of vorticity through a shock wave .
+89:an investigation of separated flows, part i: the pressure field .
+1369:steady motion of a sphere., oseens's criticism and solution .
+817:loading paths and the incremental stress law .
+1141:the wake behind an oscillating vehicle .
+1384:a theoretical calculation of the laminar boundary layer around an elliptic cylinder and its comparison with experiment .
+269:on a laminar free-convection flow and heat transfer of electrically conducting fluid on a vertical flat plate in the presence of a transverse magnetic field .
+1308:a guide to the use of the m. i. t.  cone tables .
+157:the hodographic transformation in transonic flow .
+857:experimental studies of flutter of buckled rectangular panels at mach numbers from 1. 2 to 3. 0 including effects of pressure differential and of panel width-length ratio .
+1070:buckling of orthotropic and stiffened conical shells .
+636:pressure distribution induced on a flat plate at a free-stream mach number of 1.39 by rockets exhausting upstream and downstream .
+396:variational and lagrangian thermodynamics of thermal convection-fundamental shortcomings of the heat transfer coefficient .
+323:vorticity interaction at an axisymmetric stagnation point in a viscous incompressible fluid .
+598:new test techniques for a hypervelocity wind tunnel .
+1394:stagnation point heat transfer measurements in hypersonic low density flow .
+309:on the motion of a flat plate at high speed in a viscous compressible fluid, ii, steady motion .
+201:supersonic flow past oscillating airfoils including nonlinear thickness effects .
+1268:stable combustion of a high-velocity gas in a heated boundary layer .
+908:random vibration .
+1221:steady flow of conducting fluids in channels under transverse magnetic fields, with consideration of hall effect .
+1353:investigation of a two-step nozzle in the langley 11in .
+429:a description of the r. a. e.  high speed supersonic tunnel .
+698:the unsteady lift of a wing of finite aspect ratio .
+945:method for design of pump impellers using a high speed digital computer .
+676:a simple method for calculating the span and chordwise loading on straight and swept wings of any aspect ratio at subsonic speeds .
+31:thermal buckling of supersonic wing panels .
+63:hypersonic viscous flow over slender cones .
+587:variational analysis of ablation .
+1074:theoretical and experimental investigation of second-order supersonic wing-body interference .
+1381:effect of mach number on boundary layer transition in the presence of pressure rise and surface roughness on an ogive-cylinder body with cold wall conditions .
+975:one dimensional flows of an imperfect diatomic gas .
+1169:hangling qualities experience with several vtol research aircraft .
+448:induction drag on a large negatively charged satellite moving in a magnetic-field-free ionosphere .
+1254:combustion in the boundary layer on a porous surface .
+465:slender delta wings with sharp edges at zero lift .
+681:integrals and integral equations in linearized wing theory .
+979:correlation of base pressure and wake structure of sharp and blunt-nose cones with reynolds number based on boundary layer momentum thickness .
+191:a theory for the core of a leading edge vortex .
+26:inviscid leading-edge effect in hypersonic flow .
+279:supersonic drag calculations for a cylindrical shell wing of semicircular cross section combined with a central body of revolution .
+475:the velocity distribution in the laminar boundary layer between parallel streams .
+1098:an experimental investigation of ablating material at low and high enthalpy potentials .
+27:newtonian flow theory for slender bodies .
+1287:progress report on an experiment on the effect of surface flexibility on the stability of laminar flow .
+75:studies of structural failure due to acoustic loading .
+978:temperature profiles inafinite solid with moving boundary .
+468:a refinement of the linearised transonic flow theory .
+1022:note on creep buckling of columns .
+1061:turbulent mixing of a rocket exhaust jet with a supersonic stream including chemical reactions .
+641:reduction of the clamped plate to two membrane problems with an application to uniformly loaded sectors .
+1316:temperature measurements of shock-waves by spectrum-line reversal, ii a double beam method .
+880:the design and testing of supersonic flutter models .
+866:regularities in creep and hot fatigue data .
+1145:buckling of core-stabilized cylinders under axisymmetric external loads .
+87:free-convection magnetohydrodynamic flow past a porous flat plate .
+352:on heat transfer over a sweat-cooled surface in laminar compressible flow with a pressure gradient .
+1014:principles of creep buckling weight-strength analysis
+413:turbulent skin friction at high mach numbers and reynolds numbers in air and helium . nasa r82, 1960 .
+1046:the bending strength of pressurized cylinders .
+807:ground measurements of the shock wave noise from supersonic bomber airplanes in the altitude range from 30,000 to 50,000 feet .
+1351:exploratory tests of the effects of jet plumes on the flow over cone- cylinder flare bodies .
+658:review of panel flutter and effects of aerodynamic noise part i..  panel flutter .
+271:an experimental test of compressibility transformation for turbulent boundary layer .
+579:further developments of new methods in heat flow analysis .
+339:experimental evaluation of heat transfer with transpiration cooling in a turbulent boundary layer at m=3 .2.
+843:a simplified method of elastic stability analysis for thin cylindrical shells .
+1177:effects of rapid heating on strength of airframe components .
+264:asymptotic solution of the two dimensional oscillating aerofoil problem for high subsonic mach numbers .
+73:investigation of the stability of the laminar boundary layer in a compressible fluid .
+1340:method of controlling stiffness properties of a solid-construction model wing .
+770:the flow of a compressible fluid past a sphere .
+737:on the analysis of elastic plates of variable thickness .
+222:the flow over delta wings at low speeds with leading edge separation .
+471:
+300:on a particular class of similar solutions of the equations of motion and energy of a viscous fluid .
+852:stress and displacement analysis of simply supported non- circular cylindrical shell under lateral pressure .
+672:tunnel interference effects .
+276:reaction tests of turbine nozzles for supersonic velocities .
+1071:stability of thin torispherical shells under uniform internal pressure .
+803:the shock pattern of a wing-body combination far from the flight path .
+230:interference between the wings and tail plane of a slender wing-body tailplane combination .
+180:boundary layer over a flat plate in presence of shear flow .
+196:pressure distributions . axially symmetric bodies in oblique flow .
+1055:non-linear bending and buckling of circular plates .
+388:the pressure gradient induced by shear flow past a flat plate .
+1190:flow of a gas near a solid surface .
+515:self sustained oscillations of a system with non-linear damping of a particular type .
+483:stagnation point shock detachment distance for flow around spheres and cylinder .
+1320:divergence of plate airfoils of low aspect ratio at supersonic speeds .
+175:experiments with static tubes in a supersonic airstream .
+213:the performance of supersonic turbine nozzles .
+1330:on some fourier transforms in the theory of non-stationary flows .
+1043:on transverse vibrations of thin, shallow elastic shells .
+198:investigation of a systematic group of naca 1 - series cowlings with and without spinners .
+989:incompressible nonviscous blade-to-blade flow through a pump rotor with splitter vanes .
+137:the generation of sound by aerodynamic means .
+236:criteria for thermodynamic equilibrium in gas flow .
+1173:the buckling of cylindrical shells under longitudinally varying loads .
+1400:the buckling shear stress of simply-supported infinitely long plates with transverse stiffeners .
+283:laminar heat transfer around blunt bodies in dissociated air .
+789:a further note on the calculation of heat transfer through the axisymmetrical laminar boundary layer on a circular cylinder .
+792:some low speed problems of high speed aircraft .
+235:on the minimisation and numerical evaluation of wave drag .
+1216:pressure distribution in regions of step-induced turbulent separation .
+601:calculation of the flow past slender delta wings with leading edge separation .
+1034:note on creep buckling of columns .
+495:on similar solutions for strong blast waves and their application to steady hypersonic flow .
+881:cumulative damage in fatigue .
+1354:investigation of the flow through a single stage two dimensional nozzle in the langley 11in . hypersonic tunnel .
+319:propagation of weak disturbances in a gas subject to relaxation effects .
+619:density of the upper atmosphere from analysis of satellite orbits .. further results .
+142:the problem of aerodynamic heating .
+907:cavitation and pressure distribution head forms at zero angle of yaw .
+216:the supersonic axial flow compressor .
+977:concerning some solutions of the boundary layer equations in hydrodynamics .
+513:pressure measurements at supersonic speeds on three uncambered conical wings of unit aspect ratio .
+950:comparison of theoretical and experimental creep buckling times of initially straight, centrally loaded columns .
+1203:the propagation of a nonuniform magnetohydrodynamic shock wave into a moving monatomic fluid .
+951:a unified theory of creep buckling under normal loads .
+868:design and operation of the n. g. t. e.  thermal shock analogue .
+791:measurements at mach numbers up to 2. 8 of the longitudinal characteristics of one plane and three cambered slender 'ogee' wings .
+1172:elastic stability of circular cylindrical shells stabilized by a soft elastic core .
+1386:analysis and calculation by integral methods of laminar compressible boundary layer with heat transfer and with and without pressure gradient .
+1156:experimental investigation of attenuation of strong shock waves in a shock tube with hydrogen and helium as driver gases .
+1303:air pressure on a cone moving at high speeds .
+107:on the mixing of two parallel streams .
+1378:blunt-cone pressure distributions at hypersonic mach numbers .
+1056:axisymmetric large deflections of circular plates subjected to thermal and mechanical load .
+680:generalized conical flow fields in supersonic wing theory .
+1246:solution of subsonic nonplanar lifting surface problems by means of high-speed digital computers .
+356:on optimum nose curves for missiles in the super-aerodynamic regime .
+850:remarks on donnell's equations .
+854:boundary-value problems of the thin-walled circular cylinder .
+593:theoretical considerations of flutter at high mach number .
+642:the buckling strength of a uniform circular cylinder loaded in axial compression .
+304:first-order approach to a strong interaction problem in hypersonic flow over an insulated flat plate .
+1165:an investigation of the effect of downwash from a vtol aircraft and a helicopter in the ground environment .
+3:the boundary layer in simple shear flow past a flat plate .
+1295:recent advances in nonequilibrium dissociating gasdynamics .
+991:wing-flow study of pressure drag reduction at transonic speed by projecting a jet of air from the nose of a prolate spheroid of fineness ratio 6 .
+332:similitude of hypersonic real-gas flows over slender bodies with blunted noses .
+755:oscillatory derivative measurements on sting-mounted wind tunnel models method of test and results for pitch and yaw on a cambered ogee wing at mach numbers up to 2. 6.
+425:the solution of elastic plate problems by electrical analogies .
+214:on the testing of supersonic compressor cascades .
+831:buckling of shallow shells under external pressure .
+228:navier-stokes solutions at large distances from a finite body .
+1133:a simple extension of southwell's method for determining the elastic general instability pressure of ring-stiffened cylinders subject to external hydrostatic pressure .
+45:an investigation of separated flows, part ii: flow in the cavity and heat transfer .
+844:flexural vibrations of the walls of thin cylindrical shells having freely supported ends .
+972:aerodynamic interaction effects ahead of a sonic jet exhausting perpendicularly form a flat plate into a mach number 6 free stream .
+1124:design of missile bodies for minimum drag at very high speeds - thickness ratio, lift, and center of pressure given .
+1129:general instability of a ring stiffened circular cylindrical shell under hydrostatic pressure .
+4:approximate solutions of the incompressible laminar boundary layer equations for a plate in shear flow .
+47:analysis of low-aspect-ratio aircraft structures .
+883:correlated fatigue data for aircraft structural joints .
+1243:supersonic boom of wing-body configurations .
+161:supersonic flow past a family of blunt symmetric bodies .
+860:test of an aerodynamically heated multi-- web wing structure (mw-1) in a free jet at mach number 2.
+900:some measurements in the vortex flow generated by a sharp leading edge having 65 sweep .
+1088:iterative methods for solving partial difference equations of elliptic type .
+1357:compressive buckling of simply supplorted plates with longitudinal stiffeners .
+605:pressure measurements on a cone-cylinder-flare configuration at small incidences for m 6.8 .
+1226:heat transfer in the laminar boundary layer with ablation of vapor of arbitrary molecular weight .
+437:hypervelocity stagnation point heat transfer .
+1247:the supersonic boom of a projectile related to drag and volume .
+110:dynamics of a dissociating gas .
+318:inviscid hypersonic flow past blunt bodies .
+720:a note on the use of sandwich structures in severe acoustic environments .
+83:discussion of solar proton events and manned space flights .
+435:application of similar solutions to calculations of laminar heat transfer on bodies with yaw and large pressure gradients in high speed flow .
+168:heat conduction through a gas with one inert internal model .
+1182:an approximate solution for laminar boundary layer flow .
+647:bending of a uniformly loaded rectangular plate with two adjacent edges and the others either simply supported or free .
+968:rocket propulsion systems for interplanetary flight .
+1224:on the plk method and the supersonic blunt-body problem .
+1083:an investigation of fluid flow in two dimensions .
+894:flutter of a two dimensional simply supported buckled panel with elastic restraint against edge displacement .
+209:boundary layer induced noise in the interior of aircraft .
+700:two and three-dimensional unsteady lift problems in high speed flight .
+467:thin airfoil theory based on approximate solution of the transonic flow equation .
+764:breathing vibrations of a circular shell with an internal liquid .
+181:some problems on heat conduction in stratiform bodies .
+2:simple shear flow past a flat plate in an incompressible fluid of small viscosity .
+331:effects of surface tension and viscosity on taylor instability .
+1253:hypersonic viscous flow near the stagnation point in the presence of magnetic field .
+1211:boundary layer transition at supersonic speedsthree-dimensional roughness effects (spheres).
+117:the motion of a viscous liquid past a paraboloid .
+1244:on the aerodynamic noise of a turbulent jet .
+571:heat transfer to flat plate in high temperature rarefied ultra-high mach number flow .
+973:interaction effects produced by jet exhausting laterally near base of ogive-cylinder model in supersonic main stream .
+635:heat transfer and pressure distributions on a hemisphere-cylinder and a bluff-afterbody model in methane-air combustion products and in air
+302:approximations for the thermodynamic and transport properties of high temperature air .
+537:stagnation point viscous hypersonic flow .
+573:viscous hypersonic similitude .
+834:limit design for economical missile structures .
+591:an approximate equation for the /choke line/ of a compressor .
+714:blockage corrections for three-dimensional flow closed throat wind tunnels, with considerations of the effect of compressibility .
+630:stagnation region in rarefied high mach number flow .
+266:exact solution of the neumann problem . calculation for non- circulatory plane and axially symmetric flows about or within arbitrary boundaries .
+1251:viscous flow past a quarter infinite plate .
+345:the interaction of shock waves with boundary layer on a flat surface .
+941:viscous compressible and incompressible flow in slender channels .
+171:a low density wind tunnel study of shock wave structure and relaxation phenomena in gases .
+1217:application of inequality constraints to variational problems of lifting re-entry .
+1358:compressive buckling of simply supported plates with transverse stiffeners .
+1097:experimental ablation cooling .
+59:tables of exact laminar-boundary layer solutions when the wall is porous and fluid properties are variable .
+765:clamped short oval cylindrical shells under hydrostatic pressure .
+1036:on transverse vibrations of thin, shallow elastic shells .
+400:buckling stress of clamped rectangular plates in shear .
+1356:secondary flow fields embedded in hypersonic shock layers .
+1144:slipstream flow around several tilt-wing vtol aircraft models operating near the ground .
+1305:a proposed programme of wind tunnel tests at hypersonic speeds to investigate the lifting properties of geometrically slender shapes .
+1209:aerodynamic processes in the downwash-impingement problem .
+785:the flow of fluid along cylinders .
+237:a compressor routine test code .
+371:note on tip-bluntness effects in the supersonic and hypersonic regimes .
+1150:preliminary results of density measurements from an air force satellite.
+875:models for aeroelastic investigation .
+936:a donnell-type theory for asymmetrical bending and buckling of thin conical shells .
+490:normal-shock relations in magnetohydrodynamics .
+1101:a sensor for obtaining ablation rates .
+1013:principles of creep buckling weight-strength analysis
+1219:determination of lift or drag programs to minimize re-entry heating .
+988:nonviscous flow through a pump impeller on a blade-to-blade surface of revolution .
+256:an experimental study of the glancing interaction between a shock wave and a turbulent boundary layer .
+17:remarks on the eddy viscosity in compressible mixing flows .
+781:use of subsonic kernel function in an influence-coefficient method of aeroelastic analysis and some comparisons with experiment .
+372:an experimental investigation of flow about simple blunt bodies at a nominal mach number of 5. 8.
+149:expansions at small reynolds number for the flow past a sphere and a circular cylinder .
+541:similitude of hypersonic flows over slender bodies in non-equilibrium dissociated gases .
+830:nonlinear deflections of shallow spherical shells .
+739:the buckling of thin cylindrical shells under axial compression .
+794:experiments with a tapered swept-back wing of warren 12 planform at mach  numbers between 0.6 and 1.6 .
+233:the theoretical wave drag of some bodies of revolution .
+1143:a one-foot hypervelocity shock tunnel in which high-enthalpy real gas flows can be generated with flow times of about 180 milliseconds .
+935:buckling of thin single- and multi-layer conical and cylindrical shells with rotationally symmetric stresses .
+940:of a turbulent free shear layer .
+882:the variation of gust frequency with gust velocity and altitude .
+948:panel flutter tests on full scale x-15 lower vertical stabilizer at mach number of 3. 0.
+202:aircraft flutter .
+805:ground measurements of the shock wave noise from airplanes in level flight at mach numbers to 1. 4 and at altitudes to 45,000 feet .
+1134:torispherical shells - a caution to designers .
+687:oscillating airfoils at high mach number .
+1239:body under lifting wing .
+612:pressure distributions and flow patterns at m=4 . on some delta wings of inverted 'v' cross section .
+362:three-dimensional effect of flutter in a real fluid .
+187:investigation of separated flows in supersonic and subsonic streams with emphasis on the effect of transition .
+162:nearly circular transfer trajectories for descending satellites .
+1304:newtonian flow over a surface . colston symposium on hypersonic flow,
+1067:plastic stability theory of geometrically orthotropic plates and cylindrical shells .
+446:wake of a satellite traversing the ionosphere .
+1376:some applications in physics of the p-function .
+478:tabulation of the blasius function with blowing and suction .
+479:on an equation occurring in falkner and skan's approximate treatment of the equation of the boundary layer .
+285:on the flutter of panels at high mach numbers .
+847:experimental study of the vibrations of a circular cylindrical shell .
+418:transition form laminar to turbulent shear flow .
+976:turbulent diffusion in the wake of a blunt nosed body at hypersonic speeds .
+70:a study of flow changes associated with airfoil section drag rise at supercritical speeds .
+1286:equilibrium real-gas performance charts for a shypersonic shock-tube wind-tunnel employing nitrogen .
+600:the calculation of lateral stability derivatives of slender wings at incidence including fin effectiveness, and correlation with experiment .
+1345:the use of aerodynamic lift during entry into the earth's atmosphere .
+558:experimental measurements of turbulent transition motion, statistics and gross radial growth behind hypervelocity object.
+663:viscous flow along a flat plate moving at high speeds .
+481:mass transfer cooling of a laminary boundary layer by injection of a light weight foreign gas .
+633:an extension of the method of generalised conical flows for lifting wings in supersonic flow .
+665:on the theory of hypersonic gas flow with a power law shock wave .
+67:dynamic stability of vehicles traversing ascending or descending paths through the atmosphere .
+310:hypersonic viscous flow over a flat plate
+295:a note on transitional heat transfer under hypersonic conditions .
+544:a theoretical and experimental study of oscillating wedge shaped aerofoils in hypersonic flow .
+574:inviscid flow with nonequilibrium molecular dissociation for pressure distributions encountered in hypersonic flight .
+1051:the stability of thin-walled unstiffened circular cylinders under axial compression including the effects of internal pressure .
+464:flow studies on flat plate delta wings at supersonic speeds .
+874:the use of models for the determination of critical flutter speeds .
+1045:the bending strength of pressurized cylinders .
+287:some theoretical low-speed loading characteristics of swept wings in roll and sideslip .
+489:on calculation of the laminar separation point and results of certain flows .
+1195:experiments with two-dimensional, transversely impinging
+1110:on supersonic flow past a slightly yawing cone .
+933:the characteristics of roughness from insects as observed for two-dimensional, incompressible flow past airfoils .
+29:a simple model study of transient temperature and thermal stress distribution due to aerodynamic heating .
+1323:an investigation of the use of an auxiliary slot to re-establish laminar flow on low drag aerofoils .
+1298:theory of radiation from luminous shock waves in nitrogen .
+607:duct flow in magnetohydrodynamics .
+585:nonlinear heat transfer problem .
+1033:the design of tubes under uniform external pressure on the basis of assumed inaccuracies .
+1125:collapse by instability of thin cylindrical shells under external pressure .
+257:on turbulen flow between parallel plates .
+569:an experimental investigation of leading edge shock wave boundary layer interaction at mach 5.8 .
+30:photo-thermoelastic investigation of transient thermal stresses in a multiweb wing structure .
+801:experimental study of the equivalence of transonic flow about slender cone-cylinders of circular and elliptic cross section .
+1232:the curtain jet .
+848:the effect of an internal compressible fluid column on the breathing vibrations of a thin pressurised cylindrical shell .
+746:aeroelastic problems in connection with high speed flight .
+377:a turbulent analog of the stewartson-illingworth transformation .
+450:some physical interpretations of magnetohydrodynamic duct flows .
+529:some effects of injection of foreign gases in a decelerating laminar boundary layer in supersonic flow .
+888:combinations of temperature and axial compression required for buckling of a ring-stiffened cylinder .
+664:the boundary layer on a flat plate in a stream with uniform shear .
+297:compressibility effects in magneto-aerodynamic flows past thin bodies .
+709:static longitudinal aerodynamic characteristics at transonic speeds and angles of attack up to 99degree of a reentry glider having folding wingtip panels .
+1200:hypersonic viscous flow over a sweat-cooled flat plate .
+1096:qualitative measurements of the effective heats of ablation of several materials in supersonic air jets at stagnation temperature up to 11,000 f.
+1023:note on creep buckling of columns .
+514:pressure distributions and flow patterns on some conical shapes with sharp edges and symmetrical cross-sections at m=4 .0.
+498:calculation of potential flow about bodies of revolution having axes perpendicular to the free-stream direction .
+996:extension of boundary layer separation criteria to a m=6 .5 utilizing flat plates with forward-facing steps .
+139:viscous effects on pitot tubes at low speeds .
+668:measurements of stagnation point heat transfer at low reynolds number .
+1324:the effect on transition of isolated surface excrescences in the boundary layer .
+49:temperature and velocity profiles in the compressible laminar boundary layer with arbitrary distribution of surface temperature .
+1241:the turbulent boundary layer on chemically active ablating surfaces .
+376:transformation between compressible and incompressible boundary layer equations .
+1089:aerodynamic characteristics of propeller-driven vtol aircraft .
+568:shock wave effects on the laminar skin friction of an insulated flat plate at hypersonic speeds .
+904:calibration of the standard pitot-static head used in the rae low speed wind tunnels .
+548:the contraction of satellite orbits under the influence of air drag . pt .iv with scale height dependent on altitude .
+1117:stability of orthotropic cylindrical shells under combined loading .
+102:advantages and limitations of models .
+125:measurements of skin friction of the compressible turbulent boundary layer on a cone with foreign gas injection .
+533:stagnation-point shock-detachment distance for flow around spheres and cylinders in air .
+1179:a theory of asymmetric hypersonic blunt-body flows .
+777:a technique for rendering approximate solutions to physical problems uniformly valid .
+254:boundary layers with suction and injection . a review of published work on skin friction .
+1294:non-linear shallow shell analysis by the matrix force method .
+572:boundary layer displacement and leading edge bluntness effects in high temperature hypersonic flow .
+766:experimental investigation at mach number of 3. 0 of effects of thermal stress and buckling on flutter characteristics of flat single-bay panels of length-width ratio 0. 96 .
+215:the test performance of highly loaded turbine stages designed for high pressure ratio .
+9:transition studies and skin friction measurements on an insulated flat plate at a mach number of 5.8.
+1299:hypersonic viscous shock layer .
+859:flutter of aerodynamically heated aluminium-alloy and stainless steel panels with length-width ratio of 10 at mach 3. 0.
+439:a factor affecting transonic leading edge flow separation .
+1010:free-flight measurements of the static and dynamic
+1015:principles of creep buckling weight-strength analysis
+174:investigation at supersonic speeds of the effects of jet mach number and divergence angle of the nozzle upon the pressure of the base annulus of a body of revolution .
+451:liapunov's methods in automatic control theory .
+426:preliminary analysis of axial flow compressors having supersonic velocity at the entrance of the stator .
+1322:qualitiative solutions of the stability equation for a boundary layer in  contact with various forms of flexible surface .
+368:some problems of polar missile control .
+238:on a determination of the pitot-static tube factor at low reynolds numbers, with special reference to the measurement of low air speeds .
+849:a theory of imperfection for the vibrations of elastic bodies of revolution .
+1222:axisymmetric magnetohydrodynamic channel flow .
+270:on combined free and forced convection laminar magnetohydrodynamic flow and heat transfer in channels with transverse magnetic field .
+1163:force-test investigation of the stability and control characteristics of a scale model of a tilt-wing vertical take-off and landing aircraft .
+1397:critical shear stress of an infinitely long simply supported plate with transverse stiffeners .
+156:the effect of shallow water on wave resistance .
+397:a sublayer for fluid injection into the incompressible turbulent boundary layer .
+814:stability derivatives of cones at supersonic speeds .
+570:on the boundary layer equations in hypersonic flow and their approximate solutions .
+957:axisymmetric snap buckling of conical shells .
+384:application of second-order shock-expansion theory to several types of bodies of revolution .
+1189:nonequilibrium flow past a wedge .
+602:the 7 x 7 in . hypersonic wind tunnel at rae farnborough, part 1, design, instrumentation and flow visualization techniques .
+684:tables of complete elliptic integrals .
+427:flow of gas through turbine lattices .
+16:transformation of the compressible turbulent boundary layer .
+1367:a theoretical investigation of the effects of mach number, reynolds number, wall temperature and surface curvature on laminar separation in supersonic flow .
+938:calculations for the stability of thin conical frustums subjected to external uniform hydrostatic pressure and axial loads .
+836:analytical and experimental investigation of stress distributions in long flat plates subjected to lingitudinal loads and transverse temperature gradients .
+165:skin-friction measurements in incompressible flow.
+321:improved numerical solution of the blasius problem with three-point boundary conditions .
+442:some effects of variations in several parameters including fluid density on the flutter speed of light uniform cantilever wings .
+1137:on the theory of thin elastic toroidal shells .
+1100:an analytical investigation of ablation .
+797:a study of the effect of leading-edge modifications on the flow over a 50degree sweptback wing at transonic speeds .
+967:a study of laminar compressible viscous pipe flow accelerated by an axial body force, with application to magnetogasdynamics .
+1135:limit analysis of symmetrically loaded thin shells of revolution .
+540:use of local similarity concepts in hypersonic viscous interaction problems .
+194:general theory of airfoil sections having arbitrary shape or pressure distribution .
+265:some instabilities arising from the interaction between shock waves and boundary layer .
+1290:measured and calculated subsonic and transonic flutter characteristics of a 45 sweptback wing planform in air and in freon-12 in the langley transonic dynamics tunnel .
+1206:magnetohydrodynamic mach cones .
+893:a new design of pitot-static tube with a discussion of pitot-static tubes and their calibration factors .
+559:heat transfer at the forward stagnation point of blunt bodies .
+821:inelastic column theory .
+1183:laminar hypersonic trail in the expansion-conduction region .
+671:pressure and boundary-layer measurements on a two dimensional wing at low speed .
+1168:damage incurred on a tilt-wing multipropeller vtol/stol aircraft operating over a level, gravel-covered surface .
+419:the design of intermediate vertical stiffeners on web plates subjected to shear .
+500:joule heating in magnetohydrodynamic free-convection flows .
+124:a summary of the supersonic pressure drag of bodies of revolution .
+242:an approximate theory of base pressure in two dimensional flow at supersonic speeds .
+1080:viscous flow round a sphere at low reynolds numbers . /l40/
+183:properties of impact pressure probes in free molecule flow .
+1066:wind tunnel measurements of aerodynamic damping derivatives of a launch vehicle vibrating in free-free bending modes at mach numbers from 0. 70 to 2. 87 and comparisons with theory .
+890:comments on 'thermal buckling of clamped cylindrical shells' .
+599:aerodynamic forces, moments and stability derivatives for slender bodies of general cross section .
+1328:the production of aerodynamic forces by heat addition on external surfaces of aircraft .
+1363:a characteristic type of instability in the large deflections of elastic plates .
+1346:modulated entry .
+93:the supersonic blunt body problem - review and extensions .
+512:quasi-cylindrical surfaces with prescribed thickness distributions .
+1113:an electronic apparatus for automatic recording of the logarithmic decrement and frequency for oscillations in the audio and subaudio frequency range .
+926:post buckling behaviour of circular cylinderical shells under hydrostatic pressure .
+1344:atmospheric entries with vehicle lift-drag ratio modulated to limit deceleration and rate of deceleration vehicles with maximum lift-drag ratio of 0. 5.
+1132:general instability of ring stiffened cylindrical shells subject to external hydrostatic pressure - a comparison of theory and experiment .
+120:measurement of convective heat transfer by means of the reynolds analogy .
+1119:plastic stability theory of thin shells .
+344:some experimental techniques in mass transfer cooling .
+62:similar solutions for the compressible laminar boundary layer with heat transfer and pressure gradient .
+554:generalized heat transfer formulas and graphs .
+956:elastic stability of simply supported corrugated core sand- wich cylinders .
+1076:an approximate method for determining the displacement effects and viscous drag of laminar boundary layers in two-dimensional hypersonic flow .
+91:periodic temperature distribution in a two-layer composite slab .
+858:experimental investigation at mach numbers 3. 0 of the effects of thermal stress and buckling on the flutter of four-bay aluminium alloy panels with length-width ratios of 10 .
+292:rapid laminar boundary layer calculations by piece-wise application of similar solutions .
+218:intensity, scale and spectra of turbulence in mixing region of free subsonic jet .
+416:methods of boundary-layer control for postponing and alleviating buffeting and other effects of shock-induced separation .
+878:experimental model techniques and equipment for flutter investigations .
+1069:design and testing of honeycomb sandwich cylinders under axial compression .
+355:the injection of air into the dissociated hypersonic laminar boundary layer .
+516:free-flight measurements of the dynamic longitudinal stability characteristics of a wind tunnel interference model (m=0 .92 to 1. 35) .
+503:theoretical prediction of the transonic characteristics of airfoils .
+1284:the transition to tubulence in a boundary layer on a blunt cone in supersonic flow .
+326:forst-order slip effects on the compressible laminar boundary layer over a slender body of revolution in axial flow .
+108:properties of the confluent hypergeometric function .
+1166:an investigation to determine conditions under which downwash from vtol aircraft will start surface erosion from various types of terrain .
+160:approximate analytical solutions for hypersonic flow past slender power-law bodies .
+1276:a three-dimensional linearized analysis of the forces exerted on a rigid wing by a shock wave .
+757:an investigation of the flow about a plane half-wing of cropped delta planform and 6( symmetrical section at stream mach numbers between 0. 8 and 1. 41 .
+1016:principles of creep buckling weight-strength analysis
+1155:some experimental investigations on the influence of wall boundary layers upon wind tunnel measurements at high subsonic speeds .
+457:on laminar boundary-layer flow near a position of separation .
+37:a new technique for investigating heat transfer and surface phenomena under hypersonic flow conditions .
+679:low speed tests on 45 sweptback wings .
+871:steady-state creep through dislocation climb .
+645:thermodynamic coupling in boundary layers .
+267:steady and transient free convection of an electrically conducting fluid from a vertical plate in the presence of a magnetic field .
+638:longitudinal aerodynamic characteristics at low subsonic speeds of a highly swept wing utilizing nose deflection for control .
+131:two-dimensional jet mixing of a compressible fluid .
+224:quasi-cylindrical surfaces with prescribed loadings in the linearised theory of supersonic flow .
+1205:effects of cooling on boundary layer transition on a hemi- sphere in simulated hypersonic flow .
+982:the temperature history in a thick skin subjected to laminar heating during entry into the atmosphere .
+1307:laminar heat-transfer and pressure measurements at a mach number of 6 on sharp and blunt 15 half-angle cones at angles of attack up to 90 .
+92:the analysis of redundant structures by the use of high-speed digital computers .
+327:on local flat plate similarity in the hypersonic boundary layer .
+1257:an optical boundary-layer probe .
+932:buckling of circular cones under axial compression .
+1210:on slender airfoil theory for nonequilibrium flow .
+518:heat conduction through a polyatomic gas .
+455:modified cross-lees mixing theory for supersonic separated and reattaching flows .
+946:exploratory investigation of the effect of a forward facing jet on the bow shock of a blunt body in a mach number 6 free stream .
+35:stagnation point of a blunt body in hypersonic flow .
+177:the mixing of free axially-symmetrical jets of mach number 1.40 .
+918:on the low aspect ratio oscillating rectangular wing in supersonic flow .
+986:design and test of mixed-flow impellers, viii - comparison of experimental results for three impellers with shroud redesigned by rapid approximate method .
+1336:studies of the use of freon-12 as a wind tunnel testing medium .
+862:the phenomenon of change in buckle pattern in elastic structures .
+696:pressure loads produced on a flat-plate wing by rocket jets exhausting in a spanwise direction below the wing and perpendicular to a freestream flow of mach number 2.0 .
+706:on som reciprocal relations in the theory of nonstationary flows .
+1105:numerical solutions for supersonic flow of an ideal gas around blunt two-dimensional bodies .
+106:the transverse potential flow past a body of revolution .
+375:steady flow in the laminar boundary layer of a gas .
+1086:a note on the numerical solution of fourth order differential equations .
+555:closing reply to comments on generalized heat transfer formulas and graphs for nose cone re-entry into the atmosphere .
+200:calculation of derivatives for a cropped delta wing with subsonic leading edges oscillating in a supersonic airstream .
+1271:theory of supersonic propeller aerodynamics .
+879:flutter model testing at transonic speeds .
+329:various aerodynamic characteristics in hypersonic rarefied gas flow .
+1102:a five-stage solid fuel sounding rocket system .
+95:temperature distribution and thermal stresses in a model of a supersonic wing .
+909:the effect of jet noise on aircraft structures .
+1176:bending tests of ring-stiffened circular cylinders .
+430:calibration of the flow in the mach 4 working section of the 4ft . x 3ft . high supersonic speed wind tunnel at rae bedford .
+1040:on transverse vibrations of thin, shallow elastic shells .
+96:review of published data on the effect of roughness on transition from laminar to turbulent flow .
+546:measurements of aerodynamic heating on a 15 cone of graded wall thickness at a mach number of 6. 8.
+735:the bending of uniformly loaded sectorial plates with clamped edges .
+151:the generation of noise by isotropic turbulence .
+717:motions of a short 10degree blunted cone entering a martian atmosphere at arbitrary angles of attack and arbitrary pitching rates .
+522:laminar, transitional and turbulent heat transfer to a cone-cylinder-flare body at mach 8. 0.
+863:loads and deformations of buckled rectangular plates .
+6:one-dimensional transient heat flow in a multilayer slab .
+1223:inviscid-incompressible-flow theory of static two-dimensional solid jets, in proximity to the ground .
+596:the properties of crossed flexure pivots, and the influence of the point at which the strips cross .
+407:stationary convection flow of an electrically conducting liquid between parallel plates in a magnetic field .
+378:engineering relations for friction and heat transfer to surfaces in high  velocity flow .
+1084:the flow past circular cylinders at low speeds .
+391:flutter of rectangular simply supported panels at high supersonic speeds .
+718:means and examples of aeronautical research in france at onera .
+173:the effect of a central jet on the base pressure of a cylindrical afterbody in a supersonic stream .
+728:free vibrations of continuous skin stringer panels .
+190:on magnetohydrodynamic shock waves .
+463:physical properties of plastics for photo-thermoelastic investigation .
+223:a note on the theory of the stanton tube .
+710:the smallest height of roughness capable of affecting boundary-layer transition .
+1395:low density stagnation point heat transfer measurements in the hypersonic shock tunnel .
+934:stability of cylindrical and conical shells of circular cross section, with simultaneous action of axial compression and external normal pressure .
+966:on fully developed channel flows,. some solutions and limitations, and effects of compressibility, variable properties, and body forces .
+525:on hypersonic viscous flow over an insulated flat plate with surface mass transfer .
+1300:some effects of bluntness on boundary layer transition and heat transfer at supersonic speeds .
+1068:instability analysis of cylindrical shells under hydrostatic pressure .
+741:the behaviour of thin cylindrical shells after buckling under axial compression .
+1162:force-test investigation of the stability and control characteristics of a 1/8 scale model of a tilt-wing vertical take-off and landing airplane .
+713:static longitudinal stability characteristics of a blunted glider reentry configuration having 79.5degree sweepback and 45degree dihedral at  a mach number of 6.2 and angles of attack up to 20degree .
+210:propeller in yaw .
+1184:three dimensional effects in viscous wakes .
+733:the bending of a sectorial plate .
+702:numerical determination of indical lift and moment functions for a two dimensional sinking and pitching airfoil at mach numbers 0.5 and 0.6 .
+846:on the vibration of thin cylindrical shells under internal pressure .
+79:effects of extreme surface cooling on boundary layer transition .
+563:the law of the wake in the turbulent boundary layer .
+923:methods for estimating lift interference of wing-body combinations at supersonic speeds .
+1272:oscillatory aerodynamic coefficients for a unified supersonic hypersonic strip theory .
+366:helium injection into the boundary layer at an axisymmetric stagnation point .
+761:buckling of sandwich under normal pressure .
+23:skin-friction and heat transfer characteristics of a laminar boundary layer on a cylinder in axial incompressible flow .
+608:aerodynamic noise in supersonic wind tunnels .
+1362:non-linear analysis of heated, cambered wings by the matrix force method .
+81:compressible laminar flow and heat transfer about a rotating isothermal disk .
+521:a note on application of transonic linearization to an airfoil with a round leading edge .
+509:a graphical approximation for temperatures and sublimation rates at surfaces subjected to small net and large gross heat transfer rates .
+901:long slender delta wings with leading edge separation .
+86:inviscid-incompressible flow theory of static peripheral jets in proximity to the ground .
+1178:buckling of ring-stiffened cylinders under a pure bending moment and a nonuniform temperature distribution .
+719:tumbling bodies entering the atmosphere .
+163:an analysis of the corridor and guidance requirements for supercircular entry planetary atmospheres .
+1389:numerical construction of detached shock waves .
+752:slender not-so-thin wing theory .
+864:status of flutter of flat and curved panels .
+759:stability investigation of a blunted cone and a blunted ogive with a flared cylinder afterbody at mach numbers from 0. 30 to 2. 85
+1116:general instability of stiffened cylinders .
+350:laminar jet mixing of two compressible fluids with heat release .
+887:buckling due to thermal stress of cylindrical shells subjected to axial temperature distributions .
+298:incompressible wedge flows of an electrically conducting viscous fluid in the presence of a magnetic field .
+745:an automatic method for finding the greatest or least value function .
+910:natural frequencies of continuous beams of uniform span length .
+1236:the stagnation point boundary layer in the presence of an applied magnetic field .
+1048:a small deflection theory for curved sandwich plates .
+984:method of analysis for compressible flow through mixed-flow centrifugal impellers of arbitrary design .
+711:an investigation at subsonic speeds of aerodynamic characteristics at angles of attack from -dash 4degrees to 100degrees of a delta-wing reentry configuration having folding wingtip panels .
+492:prediction of ogive-forebody pressures at angles of attack .
+920:supersonic flow over an inclined wing of zero aspect ratio .
+924:a method for calculating the lift and centre of pressure of wing-body-tail combinations at subsonic, transonic speeds .
+253:on the ground level disturbance from large aircraft flying at supersonic speeds .
+774:general characteristics of the flow through nozzles at near critical speeds .
+1138:asymptotic solutions of toroidal shell problems .
+1218:experimental lift and drag of a series of glide configurations at mach numbers 12 .6 and 17 .5.
+360:lift on inclined bodies of revolution in hypersonic flow .
+305:hypersonic strong viscous interaction on a flat plate with surface mass transfer .
+657:interferometric studies of supersonic flows about truncated cones .
+431:free-flight measurements of the zero-lift drag and base pressure on a wind tunnel interference model (m=0 . 8 - 1. 5) .
+784:heat transfer through the laminar boundary layer on a circular cylinder in axial incompressible flow .
+72:boundary layer behind shock or thin expansion wave moving into stationary fluid .
+594:wind tunnel techniques for the measurements of oscillatory derivatives .
+380:effect of quasi-steady air forces on incompressible bending-torsion flutter .
+815:investigation of several blunt bodies to determine trans- onic aerodynamic characteristics including effects of spinning and of extendible afterbody flaps and some measurements of unsteady base pressures .
+1337:study of effects of sweep on the flutter of cantilever wings .
+109:the production of uniform shear flow in a wind tunnel .
+786:the skin friction on infinite cylinders moving parallell to their length
+1035:note on creep buckling of columns .
+1373:nose drag in free-molecule flow and its minimization .
+406:on the behaviour of boundary layers at supersonic speeds .
+1054:iterative solutions for the non-linear bending of circular plates .
+660:the fundamental solution for small steady three dimensional disturbances to a two dimensional parallel shear flow .
+631:low speed wind tunnel tests on a two dimensional aerofoil with split flap near the ground .
+716:study of the oscillatory motion of manned vehicles entering the earth's atmosphere .
+207:laminar boundary layer oscillations and transition on a flat plate .
+549:experimental study of the velocity and temperature distribution in a high-velocity vortex-type flow .
+736:the bending of a wedge shaped plate .
+22:on slip-flow heat transfer to a flat plate .
+1382:the solution of the equations of the laminar boundary layer for schubauer's observed pressure distribution for an elliptic cylinder .
+299:magnetohydrodynamic flow past a semi-infinite plate .
+1052:recent advances in the buckling of thin shells .
+731:upper and lower bounds for the solution of the first biharmonic boundary value problem .
+1315:performance estimates for the rae 6in . high-pressure shock tube .
+833:a simple method of matric structural analysis, part iv, non-linear problems .
+916:the flow around oscillating low aspect ratio wings at transonic speeds .
+1127:the buckling of sandwich type panels .
+78:an analytical treatment of aircraft propeller precession instability .
+1348:radiative heat transfer during atmosphere entry at parabolic velocity .
+611:an approximate solution of the compressible laminar boundary layer on a flat plate .
+1392:the solution of small displacement, stability or vibration problems concerning a flat rectangular panel when the edges are either clamped or simply supported .
+145:skin friction in the laminar boundary layer in compressible flow .
+1285:experiments at hypersonic speeds on circular cones at incidence .
+551:analysis of a loaded cantilever plate by finite difference methods .
+1104:aerodynamic heating of blunt nose shapes at mach numbers up to 14 .
+990:a rapid approximate method for determining velocity distribution on impeller blades of centrifugal compressors .
+827:a nonlinear theory of bending and buckling of thin elastic shallow spherical shells .
+661:summary of laminar boundary layer solutions for wedgetype flow over convection and transpiration cooled surfaces .
+132:viscosity effects in sound waves of finite amplitude: in survey in mechanics .
+566:investigation of local heat transfer and pressure drag characteristics of a yawed circular cylinder at supersonic speeds .
+440:compilation of information on the transonic attachment of flows at the leading edge of airfoils .
+1028:note on creep buckling of columns .
+348:turbulent boundary layer in compressible fluids .
+1057:the uniform section disk spring .
+526:leading edge attachment in transonic flow with laminar or turbulent boundary layers .
+1180:approximate analysis of the slot injection of a gas in laminar flow .
+1025:note on creep buckling of columns .
+625:viscous and inviscid nonequilibrium gas flows .
+905:comparative tests of pitot-static tubes .
+867:low frequency fatigue of nimonic 90 . low frequency fatigue - a rheological approach .
+127:supersonic axially symmetric nozzles .
+385:on a generalised porous-wall ?couette type? flow .
+913:vibrations of beams on many supports .
+116:the elliptic cylinder in a shear flow with hyperbolic velocity profile .
+692:investigation of the jet effects on a flat surface downstream of the exit of a simulated turbojet nacelle at a free-stream mach number of 2.02 .
+289:a theoretical study of the aerodynamics of slender cruciform-wing arrangements and their wakes .
+925:factors affecting loads at hypersonic speeds .
+584:conduction of heat in a solid with a power law of heat transfer at its surface .
+747:bodt freedom flutter of ground launched rocket models at supersonic and high subsonic speeds .
+1050:compressive buckling of simply supported curved plates and cylinders of sandwich construction .
+1063:on obtaining solutions to the navier-stokes equations with high speed digital computers .
+958:air scooping vehicle .
+695:some experiments relating to the problem of simulation of hot jet engines in studies of jet effects on adjacent surfaces at a free-stream mach number of 1.80 .
+835:the problem of strain accumulation under thermal cycling .
+243:investigation with an interferometer of the turbulent mixing of a free supersonic jet .
+1147:heat transfer to bodies traveling at high speed in the upper atmosphere .
+1174:general theory of buckling .
+240:a theoretical analysis of heat transfer in regions of separated flow
+1289:numerical technique to lifting surface theory for calculation of unsteady aerodynamic forces due to continuous sinusoidal gusts on several wing planforms at sobsonic speeds .
+99:the fundamentals of the statistical theory of turbulence .
+208:the hall effect in the viscous flow of ionized gas between parallel plates under transverse magnetic field .
+1044:on the theory of thin elastic shells .
+480:adiabatic wall temperature due to mass transfer cooling with a combustible gas .
+744:lower buckling load in the non-linear buckling theory of thin shells .
+1311:some simple solutions to the problem of predicting boundary layer self-induced pressures .
+818:a quantitative comparison of flow and deformation theories of plasticity .
+1341:investigation of wing flutter at transonic speeds for six systematically  varied wing plan forms .
+1274:real gas effects in flow over blunt bodies at hypersonic speeds .
+311:a method for predicting the onset of buffeting and other separation effects from wind tunnel tests on rigid models .
+1364:an experimental investigation of the interaction between shock waves and  boundary layers .
+278:on source and vortex distributions in the linearised theory of steady supersonic flow .
+1312:tabulated solutions of the equilibrium gas properties behind the incidents and reflected normal shock-wave in a shock-tube .
+66:some effects of joint conductivity on the temperature and thermal stresses in aerodynamically heated skin-stiffener combinations .
+248:the application of lighthill formula for numerical calculation of pressure distributions on bodies of revolution at supersonic speed and zero angle of attack .
+143:interplanetary orbits .
+1031:note on creep buckling of columns .
+188:an analysis of base pressure at supersonic velocities and comparison with experiment .
+678:the effect of end plates on swept wings .
+1060:buckled states of circular plates .
+828:stresses and small displacements of shallow spherical shells .
+76:flight measurement of wall pressure fluctuations and boundary-layer turbulence .
+330:taylor instability of finite surface waves .
+473:freeman method .
+943:compressible free shear layer with finite initial thickness .
+136:recent developments in rocket nozzle configurations .
+1317:shock-tube testing time .
+1087:convergence rates of iterative treatments of partial differential equations .
+338:mass transfer cooling at mach number 4. 8.
+1085:note on the convergence of numerical solutions of the navier-stokes equations .
+1212:effect of uniformly distributed roughness on turbulent skin-friction drag at supersonic speeds .
+740:the behaviour of a cylindrical shell under axial compression when the buckling load has been exceeded .
+324:vorticity effect on the stagnation point flow of a viscous incompressible fluid .
+422:bending of a square plate with two adjacent edges free and the others clamped or simply supported .
+226:aerofoil theory of a flat delta wing at supersonic speeds .
+653:transient magnetohydrodynamic duct flow .
+1122:on the role of initial imperfections in plastic buckling of cylinders under axial compression
+346:measurements of turbulent friction on a smooth flat plate in supersonic
+80:effect of distributed three-dimensional roughness and surface cooling on boundary layer transition and lateral spread of turbulence at supersonic speeds .
+357:optimum nose shapes for missiles in the super-aerodynamic region .
+1153:a study of the simulation of flow with free stream mach number 1 in a choked wind tunnel .
+46:some comments on the inversion of certain large matrices .
+20:generalised-newtonian theory .
+1078:the steady flow of a viscous fluid past a circular cylinder at reynolds numbers 40 and 44 .
+1260:on the response of the laminar boundary layer to small fluctuations of the free-stream velocity .
+683:the use of conical camber to produce flow attachment at the leading edge of a delta wing and to minimize the lift-dependent drag at sonic and supersonic speeds .
+486:similarity laws for aerothermoelastic testing .
+1377:theoretical investigation of the flow field about blunt nosed bodies in supersonic flight .
+886:thermal buckling of clamped cylindrical shells .
+542:biot's variational principle in heat conduction .
+275:the effect of lift on entry corridor depth and guidance requirements for the return lunar flight .
+1115:measurements of aerodynamic forces for various mean angles of attack on an airfoil oscillating in pitch and on two finite-span wings oscillating in bending with emphasis on damping in the stall .
+126:an investigation of two-dimensional supersonic base pressures .
+1032:on the conservativeness of various distributed force systems .
+1228:leading-edge separation of laminar boundary layers in supersonic flow .
+769:local circumferential buckling of thin circular cylindrical shells .
+534:consideration of energy separation for laminar slip flow in a circular tube .
+458:a new series for calculation of steady laminar boundary layer flows .
+43:the relation between wall temperature and the effect of roughness on boundary layer transition .
+506:a note on havelock's shallow-water wave-resistance curves .
+118:the transonic flow of a compressible fluid through an axially symmetrical nozzle .
+441:evaluation of high angle-of-attack aerodynamic derivative data and stall-flutter prediction techniques .
+651:heat transfer to separated and reattached subsonic turbulen flows obtained downstream of a surface step .
+347:boundary layer measurements in hypersonic flow .
+484:the influence of two-dimensional stream shear for airfoil maximum lift .
+610:corner interference effects .
+383:integration of the boundary layer equations for a plane in compressible flow with heat transfer .
+778:an integral related to the radiation integrals .
+336:simplified laminar boundary layer calculations for bodies of revolution and for yawed wings .
+1249:plasma flow over a thin charged conductor .
+922:supersonic flow past slender bodies of revolution, slope of whose median section is discontinuous .
+556:numerical comparison between exact and approximate theories of hypersonic inviscid flow past slender blunt nosed bodies .
+915:a buckled plate in a supersonic stream .
+1242:some considerations on the laminar stability of time-dependent basic flows .
+538:the conpressibility transformation and the turbulent boundary layer equations .
+255:an approximate solution of the turbulent boundary layer equations in incompressible and compressible .
+1334:calculated spanwise lift distributions and aerodynamic influence coefficients for swept wings in subsonic flow .
+452:symmetric joukowsky airfoils in shear flow .
+819:stresses in the plastic range around a normally loaded circular hole in an infinite sheet .
+670:on blunt-body heat transfer at hypersonic speed and low reynolds number .
+411:data on shape and location of detached shock waves in cones and sphere .
+313:on alternative forms for the basic equations of transonic flow theory .
+1240:nonsimilar solutions of the compressible laminar boundary layer equations with applications to the upstream-transpiration cooling problem .
+159:numerical methods for transient heat flow .
+622:scale height in the upper atmosphere, derived from changes in satellite orbits .
+1318:stagnation temperature measurements in a hypersonic gun tunnel using the  sodium-line reversal method .
+865:a study of the thermal fatigue behaviour of metals .  the effect of test conditions on nickel-base high temperature alloys .
+19:an investigation of the pressure distribution on conical bodies in hypersonic flows .
+335:the interaction between boundary layer and shock waves in transonic flow .
+655:effects of boundary layer displacement and leading edge bluntness on pressure distribution, skin friction, and heat transfer of bodies at hypersonic speeds .
+707:thermal analysis of stagnation regions with emphasis on heat-sustaining nose shapes at hypersonic speeds .
+793:the flow pattern on a tapered sweptback wing at mach numbers between 0.6  and 1.6 .
+762:allowable axial loads and bending moments for inelastic structures under nonuniform temperature distribution .
+57:applicability of the hypersonic similarity rule to pressure distributions which include the effects of rotation for bodies of revolution at zero angle of attack .
+667:hypersonic shock layer theory of the stagnation region at low reynolds number .
+1231:hypersonic flow over an elliptic cone: theory and experiment .
+783:a method for calculating the subsonic steady-state loading on an airplane with a wing of arbitrary planform and stiffness .
+931:stability equations for conical shells .
+530:an aerodynamic analysis for flutter in oseen-type viscous flow .
+1256:fluctuating lift and drag acting on a cylinder in a flow at supercritical reynolds numbers .
+536:transition in the viscous wakes of blunt bodies at hypersonic speeds .
+353:the effect of helium injection at an axially symmetric stagnation point .
+729:stresses in continuous skin stiffener panels under random loading .
+1000:free-flight measurements of the static and dynamic stability and drag of a 10 blunted cone at mach numbers 3 .5 and 8 .5 .
+1021:note on creep buckling of columns .
+626:some features of supersonic and hypersonic flow about blunted cones .
+808:an investigation of some aspects of the sonic boom by means of wind tunnel measurements of pressures about several bodies at a mach number of 2. 01 .
+203:calculated velocity distributions and force derivatives for a series of high-speed aerofoils .
+333:boundary-layer interaction on a yawed infinite wing in hypersonic flow .
+172:some aerodynamic considerations of nozzle afterbody combination .
+964:on the theory of discharge coefficients for round entrance flowmeters and venturis .
+911:experimental study of the random vibrations of an aircraft structure excited by jet noise .
+1372:on axially symmetric, turbulent, compressible mixing in the presence of initial boundary layer .
+999:static aerodynamic characteristics of short blunt cones with various nose and base cone angles at mach numbers of 0. 6 to 5. 5 and angles of attack to 180 .
+795:the operation of the npl 18in x 14in. wind tunnel in the transonic speed  range .
+675:pressure distribution and surface flow on 5( and 9( thick wings with curved tip and 60degree sweepback .
+1073:a practical method for numerical evaluation of solutions of partial differential equations of the heat-conduction type .
+629:second-order effects in laminar boundary layers .
+40:experiments on boundary layer transition at supersonic speeds .
+71:laminar boundary layer behind shock advancing into stationary fluid .
+576:viscous and inviscid stagnation flow in a dissociated hypervelocity free  stream .
+1393:heat transfer near the forward stagnation point of a body of revolution .
+140:the determination of turbulent skin friction by means of pitot tubes .
+197:pressure distributions on three bodies of revolution to determine the effect of reynolds number up to and including the transonic speed range .
+1075:an experimental and theoretical investigation of second-order supersonic  wing-body interference, for a non-lifting body with wings at incidence
+205:a correlation of airfoil section data with the aerodynamic loads measured on a 45 sweptback wing at subsonic mach numbers .
+1081:numerical solution of the navier-stokes equations for the flow around a circular cylinder at reynolds number 40 .
+150:integration of the boundary layer equations .
+809:an investigation of the influence of lift on sonic-boom intensity by means of wind tunnel measurements of the pressure fields of several wing-body combinations at a mach number of 2. 01 .
+1099:a theoretical study of stagnation point ablation .
+1003:free-flight measurements of the static and dynamic
+823:plastic torsional buckling strength of cylinders including the effects of imperfections .
+38:on the prediction of mixed subsonic/supersonic pressure distributions .
+998:equations, tables and charts for compressible flow .
+1093:induced interference effects on jet and buried-fan vtol configurations in transition .
+98:heat transfer by laminar flow to a rotating plate .
+408:on convective motion of a conducting fluid between parallel vertical plates in a magnetic field .
+1321:effects of a flexible boundary on hydrodynamic stability .
+1355:boundary layer displacement effects in air at mach numbers of 6. 8 and 9. 6.
+123:the downstream influence of mass transfer at the nose of a slender cone .
+50:investigation of laminar boundary layer in compressible fluids using the crocco method .
+1171:the stability under axial compression and lateral pressure of circular cylindrical shells with a soft elastic core .
+1391:shock wave and flow field development in hypersonic re-entry .
+965:analytic determination of discharge coefficients of flow nozzles .
+1017:note on creep buckling of columns .
+54:method for calculation of compressible laminar boundary layer characteristics in axial pressure gradient with zero heat transfer .
+438:stagnation point heat transfer measurements at super satellite speeds .
+1238:the newtonian approximation in magnetic hypersonic stagnation-point flow .
+673:investigation of full scale split trailing edge wing flaps with various chords and hinge locations .
+1230:hypersonic nozzle expansion of air with atom recombination present .
+634:effects of leading edge bluntness on flutter characteristics of some square- planform double-wedge airfoils at a mach number of 15 .4.
+185:some possibilities of using gas mixtures other than in aerodynamic research .
+374:an investigation of optimum zoom climb techniques .
+423:an experimental investigation of the flow over blunt-nosed cones at a mach number of 5. 8.
+1008:free-flight measurements of the static and dynamic
+1347:approximate analysis of atmospheric entry corridors and angles .
+204:a study of the application of airfoil section data to the estimation of the high subsonic speed characteristics of swept wings .
+811:an investigation of lifting effects on the intensity of sonic booms .
+1264:boundary layer transition and heat transfer in shock tubes .
+690:investigaion of the flow over a spiked-nose hemisphere cylinder at a mach number of 6. 8.
+1215:the effect of slip particularly for highly cooled walls .
+699:approximate indical lift functions for several wings of finite span in incompressible flow as obtained from oscillatory lift coefficients .
+639:analytical study of the tumbling motions of vehicles entering planetary atmospheres .
+167:linearized flow of a dissociating gas .
+1029:note on creep buckling of columns .
+244:an improved smoke generator for use in the visualisation of airflow, particularly boundary layer flow at high reynolds numbers .
+444:an approach to the flutter problem in real fluids .
+1027:note on creep buckling of columns .
+1335:use of freon-12 as a fluid for aerodynamic testing .
+583:influence coefficients for real gases .
+1136:design of thin walled torispherical and toriconical pressure - vessel heads .
+519:base pressure at supersonic speeds in the presence of a supersonic jet .
+921:slender-body theory-review and extension .
+730:on the bending of a clamped plate .
+790:a wind-tunnel test technique for measuring the dynamic rotary stability derivatives at subsonic and supersonic speeds .
+1234:direct calculation of pressure distribution on blunt hypersonic nose shapes with sharp corners .
+364:a method for analysing the insulating properties of the laminar compressible boundary layer .
+613:the contraction of satellite orbits under the influence of air drag part i . with spherically symmetrical atmosphere .
+272:oscillatory aerodynamic coefficients for a unified supersonic hypersonic strip theory .
+787:rayleigh's problem for a cylinder of arbitrary shape .
+547:boundary layer characteristics of caret wings .
+1024:note on creep buckling of columns .
+219:on the strength distribution of noise sources along a jet .
+853:the accuracy of donnell's equations .
+644:a study of the cantilever square plate subjected to a uniform loading .
+502:on squire's test of the compressibility transformation .
+1388:a process for the step-by-step integration of differential equations in an automatic digital computing machine .
+261:experiments on axi-symmetric boundary layers along a long cylinder in incompressible flow .
+404:two dimensional transonic flow past airfoils .
+69:predicted shock envelopes about two types of vehicles at large angles of attack .
+1343:formulas for the supersonic loading, lift and drag of flat swept back wings with leading edges behind the mach lines .
+369:an approximate solution of the supersonic blunt body                    problem for prescribed arbitrary axisymmetric shapes .
+715:motion of a ballistic missile angularly misaligned with the flight path upon entering the atmosphere and its effect upon aerodynamic heating, aerodynamic loads and miss distance .
+643:an investigation of wing-aileron flutter using ground launched rocket models .
+470:some notes for the small disturbance linear theory of the method of local linearisation of the flow over an airfoil at mach number of unity .
+1039:on transverse vibrations of thin, shallow elastic shells .
+1368:three dimensional viscous wakes .
+751:a note on the use of end plates to prevent three dimensional flow at the ends of bluff cylinders .
+21:on heat transfer in slip flow .
+1072:ignition and combustion in a laminar mixing zone .
+293:recent studies on the effect of cooling on boundary layer transition at mach 4.
+1007:free-flight measurements of the static and dynamic
+582:the melting of finite slabs .
+1350:effects of jet billowing on stability of missile-type bodies at mach 3. 85 .
+415:the aerodynamic design of section shapes for swept wings .
+1265:on the thrust hypothesis for the jet flap including jet-mixing effects .
+1020:note on creep buckling of columns .
+477:laminar boundary layers at the interface of co-current parallel streams .
+1095:investigation of effectiveness of large-chord slotted flaps in deflecting propeller slipstreams downward for vertical take-off and low-speed flight .
+1273:magnetohydrodynamic effects on the formation of couette, flow .
+842:an improvement on donnell's approximation for thin-walled circular cylinders .
+428:the quasi-cylinder of specified thickness and shell loading in supersonic flow .
+1:experimental investigation of the aerodynamics of a wing in a slipstream .
+379:reverse flow and variational theorems for lifting surfaces in nonstationary compressible flow .
+229:interference between the wings and tail surfaces of a combination of slender body, cruciform wings and cruciform tail set at both incidence and yaw .
+225:elliptic cones alone and with wings at supersonic speeds .
+851:energy expressions and differential equations for stress and displacement analysis of arbitrary cylindrical shells .
+1077:a method of solution with tabulated results for the attached oblique shock wave system for surfaces at various angles of attack, sweep, and dihedral in an equilibrium real gas including the atmosphere .
+1107:the flow field over blunted flat plates and its effect on turbulent boundary growth and heat transfer at a mach number of 4. 7.
+812:investigation of two bluff shapes in axial free flight over a mach number range from 0. 35 to 2. 15 .
+763:effects of internal pressure on the buckling of circular-cylindrical shells under bending.
+179:an analysis of base pressure at supersonic speeds and comparison with experiment .
+1128:face wrinkling and core strength in sandwich construction .
+246:the design of minimum drag tip fins . with an appendix - on the conformal transformation of a wing with a fin .
+60:estimation forces and moments due to rolling for several slender tail configurations at supersonic speeds .
+960:investigation of free turbulent mixing .
+268:several magnetohydrodynamic free-convection solutions .
+314:simplified method for determination of the critical height of distributed roughness particles for boundary layer transition at mach numbers from 0 to 5.
+897:some results on buckling and postbuckling of cylindrical shells .
+51:theory of aircraft structural models subjected to aerodynamic heating and external loads .
+505:transition measurements on cones in free flight ballistics range tests .
+581:approximate formulas for thermal-stress analysis .
+1301:compressible boundary layers on bodies of revolution .
+182:effect of roughness on transition in supersonic flow .
+650:some design problems of hovercraft .
+1352:aerodynamic investigation of a parabolic body of revolution at mach number of 1. 92 and some effects of an annular supersonic jet exhausting from the base .
+800:wall interference at transonic speeds on a hemisphere cylinder model .
+1106:free-flight observation of a separated turbulent flow including heat transfer up to mach 8. 5.
+959:heat transfer in separated flows .
+782:calculated subsonic span loads and resulting stability derivatives of unswept and 45degree sweptback tail surfaces in sideslip and steady roll
+36:supersonic flow around blunt bodies .
+1185:an integral method for calculating heat and mass transfer in laminar boundary layers .
+317:non-equilibrium flow of an ideal dissociating gas .
+211:effect of slight blunting of leading edge of an immersed body on the flow around it at hypersonic speed .
+1090:pressure distribution and force measurements on a vtol tilting wing-propeller model . pt .ii, analysis of results .
+277:study of flow conditions and deflection angle at exit of two-dimensional cascade of turbine rotor blades at critical and supercritical pressure ratios .
+13:similarity laws for stressing heated wings .
+12:some structural and aerelastic considerations of high speed flight .
+1375:an approximate solution for the axisymmetric jet of a laminar compressible fluid .
+1130:handbook of structural stability . pt .vi . strength of stiffened curved plates and shells .
+1059:the nonlinear conical spring .
+193:a study of inviscid flow about air foils at high supersonic speeds .
+316:the occurrence and development of boundary layer separations at high incidences and high speeds .
+1319:real gas effects in flow over blunt bodies at hypersonic speeds .
+1197:unsteady aerodynamic forces on slender supersonic aircraft with flexible wings and bodies .
+245:the ground effect on the jet flap in two dimensions .
+962:contributions to the theory of heat transfer through a laminar boundary layer .
+56:an analysis of the applicability of the hypersonic similarity law to the study of the flow about bodies of revolution at zero angle of attack .
+1250:high-speed viscous corner flow .
+523:approximate determination of position of the sonic line for a blunt body in hypersonic flow .
+1120:a unified theory of plastic buckling of columns and plates .
+113:acoustical signal detection in turbulent airflow .
+896:the calculation of loads on a supersonic weapon in the steady circling case .
+178:on full dispersed shock waves in carbon dioxide .
+493:real-gas laminar boundary layer skin friction and heat transfer .
+825:inelastic instability and incremental theories of plasticity .
+1126:an engineer's conceptual approach to the buckling of cylindrical shell (axial loading) .
+306:second approximation to laminar compressible boundary layer on flat plate in slip flow .
+358:on the model of the free shock separation, turbulent boundary layer .
+929:stability of the cylindrical shell of variable curvature .
+987:a general theory of three dimensional flow in subsonic and supersonic turbo-machines of axial-radial-and mixed-flow types .
+459:on the solution of the laminar boundary layer equations .
+100:vibration isolation of aircraft power plants .
+826:small bending and stretching of sandwich type shells .
+337:boundary layer transition with gas injection .
+367:control system and analysis and design via the second method of lyapunov .
+421:analytic study of induced pressure on long bodies of revolution with varying nose bluntness at hypersonic speeds .
+460:correlated incompressible and compressible boundary layers .
+112:steady motion of conducting fluids in pipes under transverse magnetic fields .
+1396:shear buckling of clamped and simply-supported infinitely long plates reinforced by transverse stiffeners .
+694:pressure distribution induced on a flat plate by a supersonic and sonic jet exhaust at a free-stream mach number of 1.80 .
+1342:the calculation of aerodynamic loading on surfaces of any shape .
+1374:theoretical analysis of turbulent mixing of reactive gases with application to supersonic combustion of hydrogen .
+199:measurement of two dimensional derivatives on a wing-aileron-tab system .
+856:some experimental studies of panel flutter at mach 1 .3.
+985:a rapid approximate method for the design of hub shroud profiles of centrifugal impellers of given blade shape .
+135:the calculation of wall shearing stress from heat-transfer measurements in compressible flows .
+403:magnetohydrodynamic shock waves .
+359:note on the hypersonic similarity law for an unyawed cone .
+24:theory of stagnation point heat transfer in dissociated air .
+517:reaction-resisted shock fronts .
+280:the surface oil flow technique as used in high speed wind tunnels in the united kingdom .
+1325:experiments on the use of suction through perforated strips for maintaining laminar flow . transition and drag measurements .
+992:the effects of a small jet of air exhausting from the nose of a body of revolution in supersonic flow .
+603:the 7 in. x 7 in. hypersonic wind tunnel at r.a.e. farnborough part ii. heater performance .
+760:inelastic buckling of initially imperfect cylindrical shells subject to axial compression .
+578:dissociation scaling for nonequilibrium blunt nose flows .
+970:loads induced on a flat plate wing by an air jet exhausting perpendicularly through the wing and normal to a free-stream flow of mach number 2.0 .
+158:temperature charts for induction and constant temperature heating .
+662:theoretical and experimental investigation of aerodynamicheating and isothermal heat transfer parameters on a hemisphere nose with laminar boundary layer at supersonic mach numbers .
+1359:compression tests on circular cylinders stiffened longitudinally by closely spaced z-section stringers .
+28:a note on the explosion solution of sedov with application to the newtonian theory of unsteady hypersonic flow .
+942:secondary gas injection in a conical rocket nozzle .
+231:practical calculation of second-order supersonic flow past non-lifting bodies of revolution .
+394:the viscous flow near a stagnation point when the external flow has uniform vorticity .
+1208:a linearized analysis of the forces exerted on a rigid wing by a shock wave .
+1149:similar temperature boundary layers .
+312:chordwise pressure distributions over several naca 16 series airfoils at transonic mach numbers up to 1.25 .
+420:an experimental study of the flow field about swept and delta wings with sharp leading edges .
+564:local heat transfer and recovery temperature on a yawed cylinder at a mach number of 4. 15 and high reynolds numbers .
+402:magnetohydrodynamics shocks .
+141:free-flight techniques for high speed aerodynamic research .
+115:on turbulent lubrication .
+456:a study of flow fields about some typical blunt-nosed slender bodies .
+259:second order theory for unsteady supersonic flow past slender pointed bodies of revolution .
+247:the calculation of the pressure distribution on thick wings of small aspect ratio at zero lift in subsonic flow .
+1235:a theory of the two dimensional laminar bounary layer over a curved surface .
+656:departure from dissociation equilibrium in a hypersonic nozzle .
+1277:a study of vortex cancellation .
+1109:unsteady laminar compressible boundary layers on an infinite plate with suction or injection .
+1164:effect of ground proximity on the aerodynamic characteristics of a four- engined vertical take-off and landing transport airplane model with tilting wing and propellers .
+1266:minimum wing wave drag with volume constraint .
+697:effects on adjacent surfaces from the firing of rocket jets .
+1233:supersonic shear flow past an airfoil between two parallel walls .
+447:motion of thin bodies in a highly rarefied plasma .
+1142:effect of wall divergence on sonic flows in solid wall tunnels .
+632:calculated lift distributions in incompressible flow on some sweptback wings .
+488:a reaction-rate parameter for gasdynamics of a chemically reacting gas mixture .
+121:a theory for base pressures in transonic and supersonic flow .
+260:a critical review of skin friction and heat transfer solutions of the laminar boundary layer of a flat plate .
+1261:a method of calculating velocity distribution for turbulent boundary layers in adverse pressure distributions .
+1269:a study of supersonic combustion .
+955:the membrane approach to bending instability of pressureized cylindrical shells .
+487:theory for supersonic two-dimensional, laminar, base-type flows using the crocco-lees mixing concepts .
+705:on the kernel function of the integral equation relating the lift and downwash distributions of oscillating finite wings in subsonic flow .
+616:determination of upper-atmosphere air density and scale height from satellite observations .
+742:post-buckling behaviour of axially compressed circular cylinder shells .
+590:effects of stage characteristics and matching on axial flow compressor performance .
+545:calculation of sideslip derivatives and pressure distribution in asymmetric flight conditions on a slender wing-fin configuration .
+1310:survey of inviscid hypersonic flow theory for geometrically slender shapes .
+1278:transition in a separated laminar boundary layer .
+614:the contraction of satellite orbits under the influence of air drag .
+1049:elastic constants for corrugated core sandwich plates .
+1187:shock-induced boundary layer separation in overexpanded conical exhaust nozzles .
+1275:flow about an unsteadily rotating disc .
+68:some aspects of air-helium simulation and hypersonic approximations .
+822:effects of imperfections on buckling of thin cylinders and columns under axial compression .
+535:shroud design for simulating hypersonic flow over the nose of a hemisphere .
+1094:investigation of the effects of ground proximity and propeller position on the effectiveness of a wing with large chord slotted flaps in redirecting propeller slipstream downward for vertical take-off .
+1370:some remarks on the flat plate boundary layer .
+436:heat transfer in planetary atmospheres at super-satellite speeds .
+164:an approximate analytical method for studying entry into planetary atospheres .
+659:nonuniform shear flow past cylinders .
+532:pitch-yaw stability of a missile oscillating in roll via the second method of lyapunov .
+412:critical combinations of shear and transverse direct stress for an infinitely long flat plate with
+18:the flow field in the diffuser of a radial compressor .
+351:thermal distributions in jeffrey-hamel flows between nonparallel plane walls .
+39:on the flow of a sonic stream past an airfoil surface .
+944:one dimensional heat conduction through the skin of a vehicle upon entering a planetary atmosphere at constant velocity and entry angle .
+652:pressure distribution on two dimensional wings near the ground .
+1227:pressure-gradient effects on the preston tube in supersonic flow .
+414:the problem of resistance in compressible fluids .
+328:the boundary layer near the stagnation point in hypersonic flow past a sphere .
+1283:on shearing flow between porous coaxial cylinders .
+497:theoretical and experimental investigation of thermal stresses in hypersonic aircraft wing structures .
+449:interaction of a charged satellite with the ionosphere .
+703:general airfoil theory .
+1160:recent advances in gaseous detonation .
+796:an investigation at transonic speeds of the performance of various distributed roughness bands used to cause boundary layer transition near the leading edge of a cropped delta half-wing .
+288:the rolling up of the trailing vortex sheet and its effect on the downwash behind wings .
+410:the supersonic flow about a blunt body of revolution for gases at chemical equilibrium .
+1123:an extension of donnell's equation for a circular cylindrical shell .
+499:a closed-form solution for the oscillations of a vehicle entering a planetary atmosphere .
+494:axisymmetric viscous flow plast very slender bodies of revolution .
+55:separation, stability and other properties of compressible laminar boundary layer with pressure gradient and heat transfer .
+1281:turbulent heat transfer on blunt-nosed bodies in two-dimensional and general three-dimensional hypersonic flow .
+192:on the hypersonic viscous flow past slender bodies of revolution .
+1293:design of stiffened cylinders in axial compression .
+902:some current and proposed investigations into the flow for slender delta and other wings in unsteady motion .
+1204:experimental effect of bluntness and gas rarefaction on drag coefficients and stagnation heat transfer on axisymmetric shapes in hypersonic flow .
+829:stability of thin-walled tubes under torsion .
+176:base pressure at subsonic speeds in the presence of a supersonic jet .
+501:stagnation-point shock detachment of blunt bodies in supersonic flow .
+1194:magnetohydrodynamic flow past a thin airfoil .
+1258:heat transfer, recovery factor and pressure distributions around a circular cylinder normal to a supersonic rarefied air stream .
+802:the behaviour of supersonic flow past a body of revolution far from the axis .
+320:comment on improved numerical solution of the blasius problem with three-point boundary conditions .
+155:on the solution of the laminar boundary layer equations .
+315:scale effects at high subsonic and transonic speeds and methods for fixing transition in model experiments .
+398:heat transfer in turbulent shear flow .
+186:base pressure in supersonic flow .
+906:review of the pitot tube .
+1188:factors affecting lift-drag ratios at mach numbers from 5 to 20 .
+1154:on the influence of wall boundary layers in closed transonic test sections .
+1331:calculated responses of a large sweptwing airplane to continuous turbulence with flight-test comparisons .
+7:the effect of controlled three-dimensional roughness on boundary layer transition at supersonic speeds .
+393:the shear flow along a flat plate with uniform suction .
+595:the equilibrium piston technique for gun tunnel operation .
+914:transtability flutter of supersonic aircraft panels .
+129:an investigation of the noise produced by a subsonic air jet .
+303:effect of variable heat recombination on stagnation point heat transfer .
+15:on two-dimensional panel flutter .
+1198:the blunt-leading-edge problem in hypersonic flow .
+370:theoretical pressure distribution on a hemisphere-cylinder combination .
+1333:aerodynamic forces on wings in non-uniform motion .
+877:the influence of aerodynamic heating on the flexural rigidity of a thin wing .
+1380:the problem of obtaining high lift-drag ratios at supersonic speeds .
+474:laminar mixing of a compressible fluid .
+445:on the application of mathieu functions in the theory of subsonic compressible flow past oscillating airfoils .
+628:thermal effects on a transpiration cooled hemisphere .
+212:theory and tunnel tests of rotor blade for supersonic turbines .
+949:charts for equilibrium flow properties of air in hypervelocity nozzles .
+405:tables of thermal properties of gases .
+409:on the base pressure resulting from the interaction of a supersonic external stream with a sonic or subsonic jet .
+971:surface pressure distributions with a sonic jet normal to adjacent flat surfaces at mach 2.92 to 6.4 .
+340:analysis of effects of diffusion of a foreign gas into the laminar boundary layer of a supersonic flow of air in a tube .
+861:charts adapted from van driest's turbulent flat-plate theory for determining values of turbulent aerodynamic friction and heat transfer coefficients .
+1118:elastic stability of orthotropic shells .
+872:fundamentals of boundary layer heat transfer with streamwise temperature variations .
+560:a theoretical study of the effect of upstream transpiration-cooling on the heat transfer and skin friction characteristics of a compressible laminar boundary layer .
+61:on flow of electrically conducting fluids over a flat plate in the presence of a transverse magnetic field .
+524:stagnation point heat transfer in partially ionized air .
+722:random excitation of a tailplane section by jet noise .
+1111:some research on high speed flutter .
+928:a new theory for the buckling of thin cylinders under axial compression and bending .
+511:tunnel tests on a double cascade to determine the interaction between the rotor and the nozzles of a supersonic turbine .
+1042:on transverse vibrations of thin, shallow elastic shells .
+234:a second order shock-expansion method applicable to bodies of revolution near zero lift .
+841:on the bending of circular cylindrical shells under pure bending .
+153:on the steady motion of viscous, incompressible fluids, with particular reference to a variation principle .
+1296:non-equilibrium expansions of air with coupled chemical reactions .
+869:the calculation of transient temperature in turbine blades and tapered discs using biot's variational method .
+273:flow past slender blunt bodies - a review and extension .
+1041:analysis of stresses in the elements of shell structure .
+666:blunt body heat transfer at hypersonic speed and low reynolds numbers .
+840:analysis of partly wrinkled membrane .
+466:development of the vapour screen method of flow visualization in the 3ft tunnel at rae bedford.
+1004:free-flight measurements of the static and dynamic
+251:a collection of longitudinal stability derivatives of wings at supersonic speeds .
+939:some explicit solutions for constant-temp . magnetogas dynamic channel flow .
+144:heat flow in composite slabs .
+927:investigation of normal force distributions and wake vortex characteristics of bodies of revolution at supersonic speeds .
+454:several approximate analyses of the bending of a rectangular cantilever plate by uniform normal pressure .
+1213:heat transfer to slender cones in hypersonic flow, including effects of yaw and nose bluntness .
+25:inviscid hypersonic flow over blunt-nosed slender bodies .
+1170:structural loads surveys on two tilt-wing vtol configurations .
+1011:free-flight measurements of the static and dynamic
+1314:production of high temperature gases in shock tubes .
+508:a correlation of nose-bluntness induced pressures on cylindrical and conical after-bodies at hypersonic speeds .
+575:atomic recombination in a hypersonic wind tunnel nozzle .
+768:formulae for use with the fatigue load meter in the assessment of wing fatigue life .
+1390:on the numerical calculation of detached bow shock waves in hypersonic flow .
+290:dynamic stability of a missile in rolling flight .
+1114:steady and fluctuating pressures at transonic speeds on two space-vehicle payload shapes .
+114:response of plates to a decaying and convecting randon pressure field .
+496:a theory of transonic aileron buzz, neglecting viscous effects .
+301:approximate design of sharp-cornered supersonic nozzles .
+621:latitude and diurnal variations of air densities from 190 to 280 km. as derived from the orbits of discoverer satellites .
+399:conduction of heat in composite slabs .
+8:measurements of the effect of two-dimensional and three-dimensional roughness elements on boundary layer transition .
+994:investigation of a retrocket exhausting from the nose of a blunt body into a supersonic free stream .
+389:simple shear flow past a flat plate in a compressible viscous fluid .
+1220:boundary layer transition in the presence of streamwise vortices .
+1064:propeller slipstream effects as determined from wing pressure distribution on a large-scale six-propeller vtol model at static thrust .
+482:a re-examination of the use of the simple concepts for prediction the shape and location of detached shock waves .
+58:pressure measurements on sharp and blunt 5 and 15 half-angle cones at mach number 3.86 and angles of attack to 100 .
+1248:an analytic extension of the shock-expansion method .
+443:calculated and measured pressure distributions over the midspan section of the naca 4412 airfoil .
+32:the dynamic motion of a missile descending through the atmosphere .
+1383:on the theory of laminar boundary layer involving separation .
+1263:turbulent heat transfer through a highly cooled, partially dissociated boundary layer .
+395:new methods in heat flow analysis with application to flight structures .
+1037:on transverse vibrations of thin, shallow elastic shells .
+870:effect of rheological behaviour on thermal stresses .
+507:energy equation approximations in fluid mechanics .
+954:analysis of stress at several junctions in pressurized shells .
+983:addendum to 'heat transfer to satellite vehicles re-entering the atmosphere .
+1012:principles of creep buckling weight-strength analysis of aircraft structures .
+562:concerning the effect of compressibility on laminar boundary layers and their separation .
+754:heat transfer through laminar boundary layers on semiinfinite cylinders of arbitrary cross section .
+101:laminar heat transfer over blunt-nosed bodies at hypersonic flight speeds .
+504:stability of compressible boundary layers induced by a moving wave .
+472:waves in supersonic flow .
+1001:wind tunnel investigation of the static and dynamic stability characteristics of a 10degree semivertex angle blunted cone .
+148:on displacement thickness .
+682:the lift of twisted and cambered wings in supersonic flow .
+839:the bending stability of thin-- walled unstiffened circular cylinders including the effects of internal pressure .
+649:the hovercraft - a new concept in maritime transport .
+588:compressor operation with one or more blade rows stalled .
+981:solutions to the heat-conduction equation with time dependent boundary conditions .
+105:the asymptotic boundary layer on a circular cylinder in axial incompressible flow .
+937:on the buckling of truncated conical shells in torsion .
+476:the blasius equation with three-point boundary conditions .
+64:unsteady oblique interaction of a shock wave with plane disturbances .
+727:a study of the acoustic fatigue characteristics of some flat and curved aluminium panels exposed to random and discrete noise .
+963:a variational principle for convection of heat .
+1339:calculation of flutter characteristics for finite-span swept or unswept wings at subsonic and supersonic speeds by a modified strip analysis .
+919:theoretical studies of unsteady transonic flow . part iii . the oscillating low aspect ratio rectangular wing .
+1161:stagnation point heat transfer measurements in dissociated air .
+1196:growth of the turbulent wake behind a supersonic sphere .
+363:an alternative formulation of the problem of flutter in real fluids .
+281:higher order approximations for relaxation oscillations .
+669:subsonic potential flow past a sphere inside a cylindrical duct .
+169:on the sudden contact between a hot gas and a cold solid .
+90:periodic temperature distributions in a two-layer composite slab .
+361:the flow of a viscous liquid past a flat plate at small reynolds number .
+780:the transonic characteristics of 38 cambered rectangular wings of varying aspect ratio and thickness as determined by transonic-bump technique .
+552:chemical kinetics of high temperature air .
+753:development of a quasi-steady approach to flutter and correlation with kernel-function results .
+128:effects of free stream vorticity on the behaviour of a viscous boundary layer .
+401:inviscid hypersonic airflows with coupled non-equilibrium processes .
+134:note on an interaction between the boundary layer and the inviscid flow .
+520:wing-tail interference as a cause of 'magnus' effects on a finned missile .
+824:on the concept of stability of inelastic systems .
+1092:wing-nacelle-propeller interference for wings of various spans . force and pressure distribution tests .
+1229:the effect of sweep angle on hypersonic flow over blunt wings .
+749:the aerodynamic effects of aspect ratio and sweepback on wing flutter .
+726:on structural fatigue under random loading .
+1091:data from a static thrust investigation of a large scale general research vtol-stol model in ground effect .
+1062:an experimental and theoretical investigation of second-order wing-body interference at high mach number .
+1201:a study of slender shapes of minimum drag using the newton-busemann pressure coefficient law .
+382:a note on the laminar boundary layer on a circular cylinder in axial incompressible flow .
+1399:buckling of transverse stiffened plates under shear .
+892:research on unsteady flow .
+637:an integral equation relating the general time-dependent lift and downwash distributions on finite wings in subsonic flow .
+743:new developments in the nonlinear theories of the buckling of thin cylindrical shells .
+373:the generalized expansion method and its application to bodies travelling at high supersonic airspeeds .
+1131:the effect of axial constraint on the instability of thin conical shells under external pressure .
+1112:unsteady aerodynamic forces on a slender body of revolution in supersonic flow .
+1065:a free-flight investigation of ablation of a blunt body to a mach number of 13 .1.
+34:constant-temperature magneto-gasdynamic channel flow .
+1058:the conical disk spring .
+262:the formation of a blast wave by a very intense explosion .
+1288:analysis of the fluid mechanics of secondary injection for thrust vector control .
+623:on the coupling between heat and mass transfer .
+1139:the effect of entrance velocity on the flow of a rarefied gas, through a tube .
+104:similar solutions of a free convection boundary layer equation for an electrically conducting fluid .
+1214:the drag of elongated bodies over a wide reynolds number range .
+1158:the tailored-interface hypersonic shock tunnel .
+1237:foreign-gas injection into a compressible turbulent boundary layer on a flat plate .
+94:the transverse curvature effect in compressible axially symmetric laminar boundary layer flow .
+1297:ionization nonequilibrium in expanding flows .
+1349:effects of simulated rocket jet exhaust on stability and control of a research type airplane configuration at a mach number of 6. 86 .
+1047:the bending strength of pressurized cylinders .
+688:tables of aerodynamic coefficients obtained from developed newtonian expressions for complete and partial conic and spheric bodies at combined angles of attack and sideslip with some comparisons with hypersonic experimental data .
+42:the gyroscopic effect of a rigid rotating propeller on engine and wing vibration modes .
+527:note on the three-point boundary layer problem for the blasius equations .
+206:the applications of the polygon method to the calculation of the compressible subsonic flow round two-dimensional profiles .
+917:a method of calculating the short period longitudinal stability derivatives of a wing in linearised unsteady compressible flow .
+617:determination of upper-atmosphere air density profile from satellite observations .
+221:a theoretical study of annular supersonic nozzles .
+1151:experiments on supersonic blunt-body flows .
+152:on the flow of compressible fluid past an obstacle .
+1365:approximate calculation of the laminar boundary layer .
+589:some stall and surge phenomena in axial flow compressors .
+130:the behaviour of non-linear systems .
+689:investigation of the laminar aerodynamics heat transfer characteristics of a hemisphere cylinder in the langley 11-inch hypersonic tunnel at a mach number of 6. 8.
+41:on transition experiments at moderate supersonic speeds .
+691:calculation procedure for thermodynamic transport, and flow properties of the combustion products of a hydrocarbon fuel mixture burned in air with results for ethylene-air and methane-air mixtures .
+806:ground measurements of airplane shock wave noise at mach numbers to 2, and at altitudes of 60,000 feet .
+813:the motion of rolling symmetrical missiles referred to a body-axis system .
+810:the shock wave noise problem of supersonic aircraft in steady flight .
+241:laminar mixing of a non-uniform stream with a fluid at rest .
+606:formulae and approximations for aerodynamic heating rates in high speed flight .
+1371:axisymmetric free mixing with swirl .
+294:an investigation of laminar transitional and turbulent heat transfer on blunt-nosed bodies in hypersonic flow .
+1191:heat transfer to a hemisphere-cylinder at low reynolds numbers .
+10:the theory of the impact tube at low pressure .
+74:an experimental study of the turbulen coundary layer on a shock tube wall .
+930:general theory of large deflections of thin shells with special applications to conical shells .
+884:the estimation of fatigue damage on structural elements .
+14:piston theory - a new aerodynamic tool for the aeroelastician .
+453:the influence of two-dimensional stream shear on airfoil maximum lift .
+1140:shock-standoff distance for spherical bodies at high mach numbers .
+11:similar solutions in compressible laminar free mixing problems .
+772:an experimental study of jet-flap compressor blades .
+889:a simplified method of elastic stability analysis for thin cylindrical shells .
+952:study of creep collapse of a long circular cylindrical shell under various distributed force systems .
+947:static aerodynamic characteristics of a short blunt 10 semi-vertex angle cone at a mach number of 15 in helium .
+701:numerical determination of indical lift of a two-dimensional sinking airfoil at subsonic mach numbers from oscillatory lift coefficients with  calculations for mach number 0.7 .
+543:the stacking of compressor stage characteristics to give an overall compressor performance map .
+837:inelastic behaviour of structures subjected to cyclic thermal and mechanical stressing conditions .
+654:on the propagation and structure of the blast wave .  part 1.
+462:photo-thermoelasticity .
+899:aerodynamic effects on boundary layer unsteadiness .
+258:the effect of turbulence on slider bearing lubrication .
+898:a survey of buckling theory and experiment for circular conical shells of constant thickness .
+146:supersonic flow past slender bodies with discontinuous profile slope .
+138:wakes in axial compressors .
+776:force measurements on square and dodecagonal sectional cylinders at high reynolds numbers .
+1193:some exact solutions for cavitating curvilinear bodies .
+876:on flutter testing in high speed wind tunnels .
+1005:free-flight measurements of the static and dynamic
+433:application of two dimensional vortex theory to the prediction of flow fields behind wings of wing-body combinations at subsonic and supersonic speeds .
+1225:the effect of adverse pressure gradients on the characteristics of turbulent boundary layers in supersonic streams .
+250:pressure distributions at zero lift for delta wings with rhombic cross sections .
+1152:on periodically oscillating wakes in the oseen approximation .
+1338:investigation to determine effects of center of gravity location on the transonic flutter characteristics of a 45degree sweptback wing .
+1202:uniformly valid second-order solution for supersonic flow over cruciform surfaces .
+553:ablation of glassy materials around blunt bodies of revolution .
+646:thermal diffusion effects on energy transfer in a turbulent boundary layer with helium injection
+903:two dimensional transonic unsteady flow with shock waves .
+390:some panel-flutter studies using piston theory .
+365:the homogeneous boundary layer at an axisymmetric stagnation point with large rates of injection .
+1186:lift of slender delta wings according to newtonian theory .
+1398:stability of rectangular plates under shear and bending forces .
+343:transpiration cooling experiments in a turbulent boundary layer at m=3 .
+618:orbit decay and prediction of the motion of artificial satellites .
+804:a flight test investigation of the sonic boom .
+53:transition reynolds numbers of separated flows at supersonic speeds .
+993:the extent of the jet interference flow fields . jet effects on cylindrical afterbodies housing sonic and supersonic nozzles which exhaust against a supersonic stream at angles of attack from 90degree to 180degree .
+974:approximate analysis of thrust vector control by fluid injection .
+434:contributions of the wing panels to the forces and moments of supersonic wing-body combinations at combined angles .
+712:low-speed longitudinal aerodynamic characteristics associated with a series of low-aspect ratio wings having variations in leading-edge contour .
+816:experimental investigation at a mach number of 3. 11 of the lift, drag and pitching moment characteristics of a number of blunt low-fineness-ratio bodies .
+895:the airforces on the low aspect ratio rectangular wing oscillating in sonic flow .
+189:experimental investigation of base pressure on blunt-trailing-edge wings of supersonic velocities .
+1282:compressible flat-plate boundary-layer flow with an applied magnetic field .
+677:methods for calculating the lift distribution of wings /subsonic lifting surface theory/ .
+103:theory of mixing and chemical reaction in the opposed jet diffusion flame .
+557:a numerical comparison between exact and approximate theories of hypersonic inviscid flow past slender blunt nosed bodies .
+232:accuracy of approximate methods for predicting pressure on pointed non-lifting bodies of revolution in supersonic flow .
+217:flow pattern in a converging-diverging nozzle .
+1082:the flow past pitot tube at low reynolds numbers, part 1-dash the numerical solution of the navier-stokes equations for steady viscous axisymmetric flow, part 2-dash the effects of viscosity and orifice size on a pitot tube at low reynolds numbers .
+1385:air flow in a separating laminar boundary layer .
+1245:some aspects of nonequilibrium flows .
+341:the analytical design of an axially symmetric laval nozzle for a parallel and uniform jet .
+820:theories of plastic buckling .
+1292:effect of jet pluming on the static stability of cone-cylinder-flare configurations at a mach number of 9. 65 .
+832:accelerating convergence of iteration processes .
+565:similar solutions for the compressible boundary layer on a yawed cylinder with transpiration cooling .
+873:lagrangian thermodynamics of heat transfer in systems including fluid motion .
+52:procedure for calculating flutter at high supersonic speed including camber deflections, and comparison with experimental results .
+738:finding zero's of arbitrary functions .
+166:flow of chemically reacting gas mixtures .
+1309:hypersonic flows past a yawed circular cone and other pointed bodies .
+620:earth satellite observations and the upper atmosphere .
+693:investigation of jet effects on a flat surface downstream of the exit of  a simulated turbojet nacelle at a free-stream mach number of 1.39 .
+322:on the numerical solution of the blasius problem with three-point boundary conditions .
+640:the design of structures to resist jet noise fatigue .
+1053:spherical cap snapping .
+274:analysis of quartz and teflon shields for a particular re-entry mission .
+1159:experimental investigation of the effect of yaw on rates of heat transfer to transverse circular cylinders in a 6500-foot-per-second hypersonic air stream .
+1361:large deflections of structures subjected to heating and external loads .
+239:design and calibration at low speeds of a static tube and a pitot-static tube with semi-ellipsoidal nose shapes .
+567:aerodynamic characteristics of a circular cylinder at mach number of 6. 86 and angles of attack up to 90 .
+1038:on transverse vibrations of thin, shallow elastic shells .
+424:cantilever plate with concentrated edge load .
+995:
+354:laminar heat-transfer and pressure measurements over blunt-nosed cones at large angle of attack .
+577:on hypersonic similitude .
+708:aerodynamic characteristics of two winged reentry vehicles at supersonic  and hypersonic speeds .
+417:on the stability of two dimensional parallel flows .
+48:supersonic flow at the surface of a circular cone at angle of attack .
+491:on the close relationship between turbulent plane-couette and pressure flows .
+1207:supersonic airfoil performance with small heat addition .
+432:theoretical damping in roll and rolling moment due to differential wing incidence for slender cruciform wings and wing-body combinations .
+1157:hypersonic shock tunnel .
+1327:on the propagation and structure of the blast wave .
+485:linear heat flow in a composite slab .
+1259:second-order theory for unsteady supersonic flow past slender pointed bodies of revolution .
+510:manoeuvring technique for changing the plane of circular orbits with minimum fuel expenditure .
+85:on trails of axisymmetric hypersonic blunt bodies flying through the atmosphere .
+1103:pressures, densities and temperatures in the upper atmosphere .
+758:the lower bound of attainable sonic-boom over-pressure and design methods of approaching this limit .
+1313:on the flow in a reflected shock tunnel .
+779:calculation and compilation of the unsteady lift functions for a rigid wing subjected to sinusoidal gusts and to sinusoidal sinking oscillations .
+33:the prospects for magneto-aerodynamics .
+721:near noise field of a jet engine exhaust .
+1291:atmosphere entries with spacecraft lift-drag ratios modulated to limit decelerations .
+1302:the development of the boundary layer in supersonic shear flow .
+111:the laminar boundary layer equation: a method of solution by means of an automatic computer .
+184:scale models for thermo-aeroelastic research .
+133:some effects of surface curvature on laminar boundary layer flow .
+798:interaction between shock waves and boundary layers, with a note on the effects of the interaction of the performance of supersonic intakes .
+1306:experiments on circular cones at yaw in supersonic flow .
+220:a general purpose analogue correlator for the analysis of random noise signals .
+249:formulae for the computation of the functions employed for calculating the velocity distribution about a given aerofoil .
+627:flutter analysis of circular panels .
+1332:calculated spanwise lift distributions, influence functions and influence coefficients for unswept wings in subsonic flow .
+1199:theoretical investigations of a supersonic laminar boundary layer with foreign-gas injection .
+386:a generalised porous-wall ?couette type? flow .
+154:velocity and temperature distributions in the turbulent wake behind a heated body of revolution .
+648:the approximate analysis of certain boundary value problems .
+885:buckling of thin cylindrical shells under hoop stresses varying in axial direction .
+773:q . app . math . 7, 1950, 381 . experiments on porous-wall cooling and flow separation control in a supersonic nozzle .
+1360:simplified analysis of general instability of stiffened shells in pure bending .
+775:studies on two dimensional flows of compressible fluid.
+1270:supersonic inlet dynamics .
+5:one-dimensional transient heat conduction into a double-layer slab subjected to a linear heat input for a small time internal .
+1108:a study of second-order supersonic flow theory .
+1379:hypersonic flight and the re-entry problem .
+308:on the hypersonic viscous flow past a flat plate with suction or injection .
+286:effect of roll on dynamic instability of symmetric missiles .
+997:experimental and theoretical studies of axisymmetric free jets .
+1148:knudsen flow through a circular capillary .
+147:supersonic flow past slender pointed wings with ?similar? cross sections at zero lift .
+912:the axisymmetric free-convection temperature field along a vertical thin cylinder .
+461:approximate methods fore predicting separation properties of laminar boundary layers .
+1002:preliminary investigations of spiked bodies at hypersonic speeds .
+732:on the analogues relating flexure and extension of flat plates .
+334:influence of the leading-edge shock wave on the laminar boundary layer at hypersonic speeds .
+1030:note on creep buckling of columns .
+891:buckling of a finite length cylindrical shell under a circumferential band of pressure .
+1181:steady magnetohydrodynamic flow past a non-conducting wedge .
+77:a comparative analysis of the performance of long range hypervelocity vehicles .
+750:transonic flow in two dimensional and axially symmetrical nozzles .
+838:bending and compression tests of pressurised ring-stiffened cylinders .

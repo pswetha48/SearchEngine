@@ -1,0 +1,11 @@
+
+public class Last {
+
+	public static void main(String[] args) {
+		int t=12;
+		int n=2;
+		String d1 = "travel happiness family Rome Italy health Paris France";
+		String d2 = "chemistry substance science nature family";
+		//travel	happiness	family	Rome	Italy	health	Paris	France	chemistry	substance	science	nature
+	}
+}

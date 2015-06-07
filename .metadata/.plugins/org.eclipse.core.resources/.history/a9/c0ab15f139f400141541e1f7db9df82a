@@ -1,0 +1,36 @@
+import java.util.HashMap;
+
+
+public class Last {
+	static int t=12;
+	static int n=10;
+	public static void main(String[] args) {
+		
+		function("travel happiness family Rome Italy health Paris France");
+		function("medicine biology university cells child health");
+		function("science knowledge wise family");
+		function("mother girl child family London Rome Italy");
+		function("singing dancing shopping shopping singing shopping");
+		function("fitness Australia gym Italy shoes beach");
+		function("Computers medicine university internet family");
+		function("chemistry substance science nature family");
+		function("museum opera singing dancing painting Italy");
+		function("physics nature Italy fashion art opera");
+		
+		
+		//travel	happiness	family	Rome	Italy	health	Paris	France	chemistry	substance	science	nature
+	}
+	static void function(String s){
+		HashMap<String, Integer> one = new HashMap<String, Integer>();
+		String[] d1s = s.split(" ");
+		for(String i: d1s){
+			one.put(i,1);
+		}
+		double itfOne = Math.log(t*1.0/one.size());
+		for(String i: one.keySet()){
+			double l = (0.5+0.5*(1))*itfOne;
+			double deno = Math.sqrt(l*l*2*itfOne*itfOne);
+			System.out.print(l/deno+",");
+		}
+	}
+}

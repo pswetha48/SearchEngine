@@ -1,0 +1,14 @@
+
+
+public class Result {
+String url;
+boolean judgement;
+String paragraph;
+public Result(String url, boolean judgement, String paragraph) {
+	super();
+	this.url = url;
+	this.judgement=judgement;
+	this.paragraph = paragraph;
+}
+
+}

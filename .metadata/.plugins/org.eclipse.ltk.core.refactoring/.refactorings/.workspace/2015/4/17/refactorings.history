@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;ParsingCranfieldData&apos;" deleteContents="false" description="Delete resource &apos;ParsingCranfieldData&apos;" element1="/ParsingCranfieldData" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1429634516988"/>&#x0A;<refactoring comment="Rename resource &apos;CreatingIndexForCranfield&apos; to &apos;CreatingIndex&apos;" description="Rename resource &apos;CreatingIndexForCranfield&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/CreatingIndexForCranfield" name="CreatingIndex" stamp="1429758827234" updateReferences="true"/>
+</session>

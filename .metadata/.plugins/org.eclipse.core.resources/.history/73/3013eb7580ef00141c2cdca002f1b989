@@ -1,0 +1,84 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+public class kmeans {
+	private static HashMap<double[], TreeSet<Integer>> clusters;
+
+	public static void main(String[] args) {
+		List<String> docs = Arrays.asList(
+				"travel happiness family Rome Italy health Paris France",
+				"medicine biology university cells child health",
+				"science knowledge wise family",
+				"mother girl child family London Rome Italy",
+				"singing dancing shopping shopping singing shopping",
+				"fitness Australia gym Italy shoes beach",
+				"Computers medicine university internet family",
+				"chemistry substance science nature family",
+				"museum opera singing dancing painting Italy",
+				"physics nature Italy fashion art opera");
+		System.out.println();
+		
+		while(go){
+			clusters = new HashMap<double[],TreeSet<Integer>>(step);
+			//cluster assignment step
+			for(int i=0;i<vecspace.size();i++){
+				double[] cent = null;
+				double sim = 0;
+				for(double[] c:clusters.keySet()){
+					double csim = cosSim(vecspace.get(i),c);
+					if(csim > sim){
+						sim = csim;
+						cent = c;
+					}
+				}
+				clusters.get(cent).add(i);
+			}
+		   	//centroid update step
+		   	step.clear();
+		   	for(double[] cent:clusters.keySet()){
+		   		double[] updatec = new double[cent.length];
+		   		for(int d:clusters.get(cent)){
+		   			double[] doc = vecspace.get(d);
+		   			for(int i=0;i<updatec.length;i++)
+		   				updatec[i]+=doc[i];
+		   		}
+		   		for(int i=0;i<updatec.length;i++)
+		   			updatec[i]/=clusters.get(cent).size();
+		   		step.put(updatec,new TreeSet<Integer>());
+		   	}
+		   	//check break conditions
+		   	String oldcent="", newcent="";
+		   	for(double[] x:clusters.keySet())
+		   		oldcent+=Arrays.toString(x);
+		   	for(double[] x:step.keySet())
+		   		newcent+=Arrays.toString(x);
+		   	if(oldcent.equals(newcent)) go = false;
+		   	if(++iter >= maxiter) go = false;
+		}
+		System.out.println(clusters.toString().replaceAll("\\[[\\w@]+=",""));
+	}
+
+	static double tf(String[] doc, String term) {
+		double n = 0;
+		for (String s : doc)
+			if (s.equalsIgnoreCase(term))
+				n++;
+		return n / doc.length;
+	}
+
+	static double idf(ArrayList<String> docs, String term) {
+		double n = 0;
+		for (String s : docs) {
+			String[] x = s.split(" ");
+			for (String i : x) {
+				if (i.equalsIgnoreCase(term)) {
+					n++;
+					break;
+				}
+			}
+		}
+
+		return Math.log(docs.size() / n);
+	}
+}

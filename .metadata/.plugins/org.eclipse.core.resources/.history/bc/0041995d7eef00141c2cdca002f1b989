@@ -1,0 +1,27 @@
+import java.util.ArrayList;
+
+public class kmeans {
+	public static void main(String[] args) {
+
+	}
+
+	static double tf(String[] doc, String term) {
+		double n = 0;
+		for (String s : doc)
+			if (s.equalsIgnoreCase(term))
+				n++;
+		return n / doc.length;
+	}
+
+	static double idf(ArrayList docs, String term) {
+		double n = 0;
+		for (String y : docs)
+			String[] x = y.split(" ");
+			for (String s : x)
+				if (s.equalsIgnoreCase(term)) {
+					n++;
+					break;
+				}
+		return Math.log(docs.size() / n);
+	}
+}

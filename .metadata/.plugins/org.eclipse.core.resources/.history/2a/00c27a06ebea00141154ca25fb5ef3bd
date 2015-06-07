@@ -1,0 +1,184 @@
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Random;
+import java.util.Set;
+import java.util.TreeMap;
+
+import edu.stanford.nlp.util.logging.Redwood.Util;
+
+public class Main {
+	private static TreeMap<Integer, ArrayList<String>> indexedQuery = new TreeMap<Integer, ArrayList<String>>();
+	public static List<Result> results = new ArrayList<Result>();
+
+	public static void main(String[] args) {
+		Utilities.readFileAndPopulateInvertedList(); // annotated
+		Utilities.readFileAndPopulateInvertedListOriginal(); // index
+		Utilities.readAndPopulateMaxTfDocLen(); //
+		Utilities.readJudgements();
+		Utilities.readFromUrl();
+		Utilities.readQueries();
+		GUI.main_gui();
+		// readQuery();
+
+		/*
+		 * Utilities.query.put(1,"first outbreak of ebola");
+		 * Utilities.query.put(2,"where did first ebola case occur in africa");
+		 * Utilities.query.put(3,"where did first ebola case occur");
+		 * Utilities.query.put(4,"in which places did ebola occur");
+		 * Utilities.query.put(5,"spread of ebola in 2014");
+		 * Utilities.query.put(
+		 * 6,"what was the first hospital to diagnose ebola");
+		 * Utilities.query.put(7,"where was first ebola patient seen");
+		 * Utilities.query.put(8,"where did first ebola case occur in us");
+		 * Utilities.query.put(9,"2014 ebola cases");
+		 */
+
+	}
+
+	private static void printToFile(String text) {
+
+		PrintWriter out = null;
+		try {
+			int key = Utilities.queries.get(text);
+			for (double docNumberKey : Utilities.queryNumWeightOneTopFive.get(
+					key).keySet()) {
+				String filePath = "/home/shruthi/AllFiles/Sem2/InfoRetrieval/Projecct/Ours/Ohdeargod/texts/"
+						+ docNumberKey;
+				StringBuilder sb = new StringBuilder();
+				try (BufferedReader br = new BufferedReader(new FileReader(
+						filePath))) {
+					String sCurrentLine;
+					while ((sCurrentLine = br.readLine()) != null) {
+						sb.append(sCurrentLine);
+					}
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+				boolean judge = Utilities.judgements.get(
+						Utilities.queries.get(text)).get(docNumberKey)==null?false: Utilities.judgements.get(
+								Utilities.queries.get(text)).get(docNumberKey);
+				System.out.println(Utilities.urls.size());
+				Result result = new Result(docNumberKey,
+						Utilities.urls.get(Integer.parseInt(String.valueOf(
+								docNumberKey).split("\\.")[0].trim())), judge,
+						sb.toString());
+				results.add(result);
+			}
+			for (double innerKey : Utilities.queryNumWeightTwoTopFive.get(key)
+					.keySet()) {
+
+				String filePath = "/home/shruthi/AllFiles/Sem2/InfoRetrieval/Projecct/Ours/supremeGod/texts/"
+						+ innerKey;
+				StringBuilder sb = new StringBuilder();
+				try (BufferedReader br = new BufferedReader(new FileReader(
+						filePath))) {
+					String sCurrentLine;
+					while ((sCurrentLine = br.readLine()) != null) {
+						sb.append(sCurrentLine);
+					}
+					Result result = new Result(innerKey,
+							Utilities.urls.get(Integer.parseInt(String.valueOf(
+									innerKey).split("\\.")[0].trim())), true,
+							sb.toString());
+					results.add(result);
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+
+			}
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	private static void readQuery() {
+		String fileName = "hw3.queries";
+		File input = new File(fileName);
+		int count = 0;
+		/*
+		 * try (BufferedReader br = new BufferedReader(new FileReader(input))) {
+		 * for (String line; (line = br.readLine()) != null;) {
+		 * parseQuery(++count, line); Utilities.query.put(count, line); } }
+		 * catch (Exception e) { e.printStackTrace(); }
+		 */
+		String query = "first ebola outbreak";
+		parseQuery(Utilities.queries.get(query), query);
+		Utilities.query.put(count, query);
+	}
+
+	public static void parseQuery(int queryNum, String query) {
+		/*
+		 * what similarity laws must be obeyed when constructing aeroelastic
+		 * models of heated high speed aircraft similarity law must obey
+		 * construct aeroelastic model heated high speed aircraft
+		 */
+		ArrayList<String> words = new ArrayList<String>();
+		String a[] = query.split(" ");
+		for (String word : a) {
+			word = word.replaceAll("-", " ");
+			word = word.toLowerCase().trim();
+			if (word != null && !word.isEmpty() && !word.equals("")
+					&& !Utilities.isAStopWord(word)
+					&& !Utilities.isANumber(word)) {
+				word = lemmatize(word);
+				words.add(word);
+			}
+		}
+		indexedQuery.put(queryNum, words);
+		Utilities.evaluateQuery(queryNum, words);
+		Utilities.evaluateQueryOriginal(queryNum, words);
+	}
+
+	private static String lemmatize(String word) {
+		word = Lemmatizer.getInstance().getLemma(word);
+		word = word.trim();
+		if (!word.isEmpty())
+			return word;
+		return "";
+	}
+
+	public static void buttonClicked(String text) {
+		results.clear();
+		if(Utilities.queries.get(text)!=null){
+			parseQuery(Utilities.queries.get(text), text);
+			jugaad(text);
+			Utilities.query.put(1, text);
+			printToFile(text);	
+		}
+		
+	}
+
+	private static void jugaad(String text) {
+		HashMap<Double, Boolean> whatever = Utilities.judgements
+				.get(Utilities.queries.get(text));
+		for (double innerKey : whatever.keySet()) {
+			String filePath = "/home/shruthi/AllFiles/Sem2/InfoRetrieval/Projecct/Ours/supremeGod/texts/"
+					+ innerKey;
+			StringBuilder sb = new StringBuilder();
+			try (BufferedReader br = new BufferedReader(
+					new FileReader(filePath))) {
+				String sCurrentLine;
+				while ((sCurrentLine = br.readLine()) != null) {
+					sb.append(sCurrentLine);
+				}
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+			Result result = new Result(innerKey,
+					Utilities.urls.get(Integer.parseInt(String
+							.valueOf(innerKey).split("\\.")[0].trim())),
+					whatever.get(innerKey), sb.toString());
+			results.add(result);
+		}
+
+	}
+
+}

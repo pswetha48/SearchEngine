@@ -1,0 +1,27 @@
+#!bin/bash
+clear
+echo "Welcome"
+echo
+echo "Navigate to the ParsingCranfieldData folder if you still haven't."
+echo
+echo "I will list the directories in this folder"
+echo
+red='\033[0;31m'
+NC='\033[0m' # No Color
+echo "${red}"
+ls
+echo "${NC}"
+echo
+echo "Do you see the src folder? y/n"
+read response 
+if [ "$response" = "y" ] 
+then
+	echo "Running program..."
+	javac -d bin -classpath bin:libs/jsoup-1.8.1.jar src/parsing/*.java
+	java -classpath bin:libs/jsoup-1.8.1.jar parsing.Main /home/shruthi/AllFiles/Sem2/InfoRetrieval/Project/Cranfield
+	echo "Thank you!"
+else 
+	echo "Please navigate to the ParsingCranfield folder and try again."
+fi
+
+javac -classpath bin:libs/jsoup-1.8.1.jar:/home/shruthi/AllFiles/Sem2/InfoRetrieval/corenlp341/stanford-corenlp-3.4.1.jar:/home/shruthi/AllFiles/Sem2/InfoRetrieval/corenlp341/stanford-corenlp-3.4.1-models.jar:/home/shruthi/AllFiles/Sem2/InfoRetrieval/corenlp341/javax.json.jar:/home/shruthi/AllFiles/Sem2/InfoRetrieval/corenlp341/joda-time.jar:/home/shruthi/AllFiles/Sem2/InfoRetrieval/corenlp341/xom.jar:/home/shruthi/AllFiles/Sem2/InfoRetrieval/corenlp341/ejml-0.23.jar:/home/shruthi/AllFiles/Sem2/InfoRetrieval/corenlp341/xom-1.2.10-src.jar:/home/shruthi/AllFiles/Sem2/InfoRetrieval/corenlp341/javax.json-api-1.0-sources.jar:/home/shruthi/AllFiles/Sem2/InfoRetrieval/corenlp341/joda-time-2.1-sources.jar:/home/shruthi/AllFiles/Sem2/InfoRetrieval/corenlp341/jollyday-0.4.7-sources.jar:/home/shruthi/AllFiles/Sem2/InfoRetrieval/corenlp341/jollyday.jar:/home/shruthi/AllFiles/Sem2/InfoRetrieval/corenlp341/ejml-0.23-src.zip Index

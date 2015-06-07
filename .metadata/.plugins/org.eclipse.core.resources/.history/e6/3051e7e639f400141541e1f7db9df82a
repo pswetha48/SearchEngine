@@ -1,0 +1,29 @@
+import java.util.HashMap;
+
+
+public class Last {
+	static int t=12;
+	static int n=10;
+	public static void main(String[] args) {
+		
+		String d1 = "travel happiness family Rome Italy health Paris France";
+		String d2 = "chemistry substance science nature family";
+		
+		
+		//travel	happiness	family	Rome	Italy	health	Paris	France	chemistry	substance	science	nature
+	}
+	void function(String s){
+		HashMap<String, Integer> one = new HashMap<String, Integer>();
+		String[] d1s = s.split(" ");
+		for(String i: d1s){
+			one.put(i,1);
+		}
+		
+		double itfOne = Math.log(t*1.0/one.size());
+		for(String i: one.keySet()){
+			double l = (0.5+0.5*(1))*itfOne;
+			double deno = Math.sqrt(l*l*2*itfOne*itfOne);
+			System.out.print(l/deno+",");
+		}
+	}
+}

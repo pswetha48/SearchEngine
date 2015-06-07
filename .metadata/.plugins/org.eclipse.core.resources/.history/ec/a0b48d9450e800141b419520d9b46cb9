@@ -1,0 +1,221 @@
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.LinkedHashMap;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Map;
+import java.util.TreeMap;
+
+public class Utilities {
+	private static List<String> stopWords = new ArrayList<String>(
+			Arrays.asList("a", "all", "an", "and", "any", "are", "as", "be",
+					"been", "but", "by", "few", "for", "have", "he", "her",
+					"here", "him", "his", "how", "i", "in", "is", "it", "its",
+					"many", "me", "my", "none", "of", "on", "or", "our", "she",
+					"some", "the", "their", "them", "there", "they", "that",
+					"this", "us", "was", "what", "when", "where", "which",
+					"to", "who", "why", "will", "with", "you", "your"));
+	private final static int collectionSize = 1400;
+	public static TreeMap<Integer, String> query = new TreeMap<Integer, String>();
+	public static TreeMap<String, Integer> documentFrequency = new TreeMap<String, Integer>();
+	public static TreeMap<Double, String> docMaxTfDocLen = new TreeMap<Double, String>();
+	public static TreeMap<String, TreeMap<Double, Integer>> listOfDocNos = new TreeMap<String, TreeMap<Double, Integer>>();
+	public static TreeMap<Integer,Map<Double, Double>> queryNumWeightOneTopFive = new TreeMap<Integer, Map<Double, Double>>();
+	// <QueryNum, <docNum, score>>
+	public static TreeMap<Integer,Map<Double, Double>> queryNumWeightTwoTopFive = new TreeMap<Integer, Map<Double, Double>>();
+	// <Word, <docNum, tf>>
+	public static double avgDocLen = 0;
+	private static Map<Double, Double> docNumWeightOne = new HashMap<Double, Double>();
+	private static Map<Double, Double> docNumWeightTwo = new HashMap<Double, Double>();
+	public static HashMap<Integer, String> docTitle = new HashMap<Integer, String>(); 
+	
+	public static double calculateWeightOne(int tf, int maxtf, int df) {
+		double W1 = (0.4 + 0.6 * Math.log(tf + 0.5) / Math.log(maxtf + 1.0))
+				* (Math.log(collectionSize / df) / Math.log(collectionSize));
+		return W1;
+	}
+
+	public static double calculateWeightTwo(int tf, int docLen,
+			double avgDocLen, int df) {
+		double W2 = (0.4 + 0.6 * (tf / (tf + 0.5 + 1.5 * (docLen / avgDocLen)))
+				* Math.log(collectionSize / df) / Math.log(collectionSize));
+		return W2;
+	}
+
+	public static void readDocTitle(){
+		String fileName = "DocTitle.txt";
+		//723:on the fatigue failure of structures due to vibrations excited by random pressure fields
+		File input = new File(fileName);
+		try (BufferedReader br = new BufferedReader(new FileReader(input))) {
+			for (String line; (line = br.readLine()) != null;) {
+				String[] first = line.split(":"); // ab 2 {744=1, 924=1}
+				int docNum = Integer.parseInt(first[0]);
+				//System.out.println(first[1]);
+				if(first.length>1)
+				docTitle.put(docNum, first[1]);
+			}
+		} catch (FileNotFoundException e) {
+			System.out.println(docTitle.get(docTitle.size()-1));
+			e.printStackTrace();
+		} catch (IOException e) {
+			System.out.println(docTitle.get(docTitle.size()-1));
+			e.printStackTrace();
+		}
+	}
+	public static void evaluateQuery(int queryNum, List<String> words) {
+		docNumWeightOne = new HashMap<Double, Double>();
+		// Docnumber and weights
+		docNumWeightTwo = new HashMap<Double, Double>();
+		docNumWeightOne.clear();
+		docNumWeightTwo.clear();
+		for (String word : words) {
+			TreeMap<Double, Integer> map = listOfDocNos.get(word);
+			if(map!=null && !map.isEmpty())
+			for (double docNum : map.keySet()) {
+				// listofDocs : <Word, <docNum, tf>>
+				// docMaxTfDocLen : <docNum, "maxtf,doclen">
+				int tf = listOfDocNos.get(word).get(docNum);
+				int maxtf = Integer.parseInt(docMaxTfDocLen.get(docNum).split(
+						",")[0]);
+				int df = listOfDocNos.get(word).size();
+				int docLen = Integer.parseInt(docMaxTfDocLen.get(docNum).split(
+						",")[1]);
+				double weight1 = calculateWeightOne(tf, maxtf, df);
+				double weight2 = calculateWeightTwo(maxtf, docLen, avgDocLen,
+						df);
+				if (!docNumWeightOne.containsKey(docNum)) {
+					docNumWeightOne.put(docNum, weight1);
+				} else {
+					weight1 = docNumWeightOne.get(docNum) + weight1;
+					docNumWeightOne.put(docNum, weight1);
+				}
+				if (!docNumWeightTwo.containsKey(docNum)) {
+					docNumWeightTwo.put(docNum, weight2);
+				} else {
+					weight2 = docNumWeightTwo.get(docNum) + weight2;
+					docNumWeightTwo.put(docNum, weight2);
+				}
+			}
+		}
+		
+		docNumWeightOne = sortByValue(docNumWeightOne);
+		docNumWeightTwo = sortByValue(docNumWeightTwo);
+		storeValue(queryNum);
+	}
+
+	private static void storeValue(int queryNum) {
+		int count=0;
+		Map<Double, Double> docList1 = new HashMap<Double, Double>();
+		for(double key: docNumWeightOne.keySet()){
+			if(count==5) break;
+			count++;
+			docList1.put(key, docNumWeightOne.get(key));
+		}
+		docList1 = sortByValue(docList1);
+		count=0;
+		queryNumWeightOneTopFive.put(queryNum, docList1);
+		Map<Double, Double> docList2 = new HashMap<Double, Double>();
+		for(double key: docNumWeightTwo.keySet()){
+			if(count==5) break;
+			count++;
+			docList2.put(key, docNumWeightTwo.get(key));
+		}
+		docList2 = sortByValue(docList2);
+		queryNumWeightTwoTopFive.put(queryNum, docList2);
+	}
+
+	public static <K, V extends Comparable<? super V>> Map<K, V> sortByValue(
+			Map<K, V> map) {
+
+		List<Map.Entry<K, V>> list = new LinkedList<>(map.entrySet());
+		Collections.sort(list, new Comparator<Map.Entry<K, V>>() {
+			@Override
+			public int compare(Map.Entry<K, V> o1, Map.Entry<K, V> o2) {
+				return (-(o1.getValue()).compareTo(o2.getValue()));
+			}
+		});
+
+		Map<K, V> result = new LinkedHashMap<>();
+		for (Map.Entry<K, V> entry : list) {
+			result.put(entry.getKey(), entry.getValue());
+		}
+		return result;
+	}
+
+	public static void readFileAndPopulateInvertedList() {
+		String fileName = "index_version1.uncompressed";
+		// FORMAT - ab: 2 : {744=1, 924=1}
+		File input = new File(fileName);
+		try (BufferedReader br = new BufferedReader(new FileReader(input))) {
+			for (String line; (line = br.readLine()) != null;) {
+				String[] first = line.split(": "); // ab 2 {744=1, 924=1}
+				String word = first[0];
+				documentFrequency.put(word, Integer.parseInt(first[1].trim()));
+				listOfDocNos.put(word, new TreeMap<Double, Integer>());
+				String[] map = first[2].replace("{", "").replace("}", "")
+						.split(", ");
+				for (String smallMap : map) {
+					TreeMap<Double, Integer> myMap;
+					if (listOfDocNos.get(word).isEmpty()) {
+						myMap = new TreeMap<Double, Integer>();
+					} else {
+						myMap = listOfDocNos.get(word);
+					}
+					myMap.put(Double.parseDouble(smallMap.split("=")[0]),
+							Integer.parseInt(smallMap.split("=")[1]));
+					listOfDocNos.put(word, myMap);
+				}
+			}
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+
+	}
+
+	public static void readAndPopulateMaxTfDocLen() {
+		String fileName = "max_tf_doclen.txt";
+		File input = new File(fileName);
+		// 451:stability:2:65
+		int sum = 0;
+		try (BufferedReader br = new BufferedReader(new FileReader(input))) {
+			for (String line; (line = br.readLine()) != null;) {
+				String[] first = line.split(":");
+				if (!first[0].isEmpty()) {
+					docMaxTfDocLen.put(Double.parseDouble(first[0]), first[2]
+							+ "," + first[3]);
+					sum = sum + Integer.parseInt(first[2]);
+				}
+			}
+			avgDocLen = sum * 1.0 / collectionSize;
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	public static boolean isAStopWord(String word) {
+		if (stopWords.contains(word.trim())) {
+			return true;
+		}
+		return false;
+	}
+
+	public static boolean isANumber(String word) {
+		try {
+			Double.parseDouble(word);
+			return true;
+		} catch (Exception e) {
+			return false;
+		}
+	}
+
+}
